@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <item>
+      <title>AIエージェント日次速報 2026年6月6日版 AWS上のCodex、統制文脈のClaude Code、進化を続けるAntigravityとOpenClaw</title>
+      <link>https://note.com/vivid_quince2775/n/nd1de1cfd66c2</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd1de1cfd66c2</guid>
+      <pubDate>Sat, 06 Jun 2026 09:19:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260606-ai-agent-daily-2026-06-06.m4a" length="38350468" type="audio/mp4" />
+      <description>2026年6月6日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenCraw まわりの一次情報と、その周辺で信頼できる関連情報を英語圏中心に確認しました。
+
+今日は新規発表が一斉に出た日というより、**「AIエージェントが個人用の便利機能から、運用・統制・配布基盤まで含む実務システムへ移っている」**ことがよりはっきり見えた日でした。
+
+特に目立つのは、
+
+CodexがOpenAI単独の体験から、AWS上の企業導入文脈に広がっていること
+Claude...</description>
+      <itunes:summary>2026年6月6日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenCraw まわりの一次情報と、その周辺で信頼できる関連情報を英語圏中心に確認しました。
+
+今日は新規発表が一斉に出た日というより、**「AIエージェントが個人用の便利機能から、運用・統制・配布基盤まで含む実務システムへ移っている」**ことがよりはっきり見えた日でした。
+
+特に目立つのは、
+
+CodexがOpenAI単独の体験から、AWS上の企業導入文脈に広がっていること
+Claude...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd1de1cfd66c2</content:encoded>
+    </item>
+    <title>AIと仕事の仕組み化ラジオ</title>
+    <link>https://note.com/vivid_quince2775</link>
+    <description>note記事とNotebookLM音声をもとに、AIエージェントや業務OS化の動向をやわらかく整理して届けるポッドキャストです。</description>
+    <language>ja-JP</language>
+    <lastBuildDate>Sat, 06 Jun 2026 08:09:59 +0000</lastBuildDate>
+    <itunes:author>とあるITエンジニア</itunes:author>
+    <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>とあるITエンジニア</itunes:name>
+      <itunes:email>h.yu.001225@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://hyu001225-max.github.io/my-podcast/podcast-cover.jpg" />
+    <atom:link href="https://hyu001225-max.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:category text="Technology">
+      <itunes:category text="Podcasting" />
+    </itunes:category>
+    <itunes:category text="Business" />
+  </channel>
+</rss>
