@@ -29,9 +29,9 @@ Claude...</itunes:summary>
     </item>
     <title>AIと仕事の仕組み化ラジオ</title>
     <link>https://note.com/vivid_quince2775</link>
-    <description>note記事とNotebookLM音声をもとに、AIエージェントや業務OS化の動向をやわらかく整理して届けるポッドキャストです。</description>
+    <description>AI?????????OS?????????????????????????????????</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 06 Jun 2026 08:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 12:35:42 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
@@ -39,7 +39,7 @@ Claude...</itunes:summary>
       <itunes:name>とあるITエンジニア</itunes:name>
       <itunes:email>h.yu.001225@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://hyu001225-max.github.io/my-podcast/podcast-cover.jpg" />
+    <itunes:image href="https://hyu001225-max.github.io/my-podcast/podcast-cover-clean.jpg" />
     <atom:link href="https://hyu001225-max.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:category text="Technology">
       <itunes:category text="Podcasting" />
