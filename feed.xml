@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年6月7日版 配布基盤の勝負に移るCodexとClaude Code、完成度を上げるManusとGenspark</title>
+      <link>https://note.com/vivid_quince2775/n/nba99a769d4b3</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nba99a769d4b3</guid>
+      <pubDate>Sun, 07 Jun 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260607-daily-2026-06-07.mp3" length="16786630" type="audio/mpeg" />
+      <description>2026年6月7日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenCrawまわりの一次情報と、その周辺の信頼できる関連情報を英語圏中心に確認しました。 今日は単発の大型発表が重なった日というより、ここ数日から続いている流れが一段はっきり見えた日でした。...</description>
+      <itunes:summary>2026年6月7日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenCrawまわりの一次情報と、その周辺の信頼できる関連情報を英語圏中心に確認しました。 今日は単発の大型発表が重なった日というより、ここ数日から続いている流れが一段はっきり見えた日でした。...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nba99a769d4b3</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年6月6日版 AWS上のCodex、統制文脈のClaude Code、進化を続けるAntigravityとOpenClaw</title>
       <link>https://note.com/vivid_quince2775/n/nd1de1cfd66c2</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd1de1cfd66c2</guid>
@@ -31,7 +43,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 06 Jun 2026 12:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 03:10:47 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
