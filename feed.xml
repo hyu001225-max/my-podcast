@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年6月10日版 CLI移行期限が見えてきた日、エージェント運用は「試す」から「棚卸し」へ</title>
+      <link>https://note.com/vivid_quince2775/n/n8ce1aad51dba</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n8ce1aad51dba</guid>
+      <pubDate>Wed, 10 Jun 2026 09:13:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260610-daily-2026-06-10.mp3" length="14689729" type="audio/mpeg" />
+      <description>2026年6月10日時点のAIエージェント日次速報を、ラジオ形式でわかりやすく解説します。</description>
+      <itunes:summary>2026年6月10日時点のAIエージェント日次速報を、ラジオ形式でわかりやすく解説します。</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n8ce1aad51dba</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年6月9日版 AIは「賢さ」より「置き場所」で差がつく段階に入った</title>
       <link>https://note.com/vivid_quince2775/n/n0ed274bbe7ba</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0ed274bbe7ba</guid>
@@ -67,7 +79,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 Jun 2026 01:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:58:07 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
