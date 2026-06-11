@@ -13,7 +13,7 @@ AIエージェントや業務OS化の動向を、実務目線でやわらかく�
 
 ## Episodes
 
-- 2026-06-11: [note記事](https://note.com/vivid_quince2775/n/n8ce1aad51dba) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260611-daily-2026-06-11.mp3)
+- 2026-06-11: [note記事](https://note.com/vivid_quince2775/n/n70b2a1056477) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260611-daily-2026-06-11.mp3)
 - 2026-06-10: [note記事](https://note.com/vivid_quince2775/n/n8ce1aad51dba) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260610-daily-2026-06-10.mp3)
 - 2026-06-09: [note記事](https://note.com/vivid_quince2775/n/n0ed274bbe7ba) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260609-daily-2026-06-09.mp3)
 - 2026-06-08: [note記事](https://note.com/vivid_quince2775/n/n0caa878e3a71) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260608-daily-2026-06-08.mp3)
