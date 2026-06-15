@@ -3,15 +3,15 @@
   <channel>
     <item>
       <title>AIエージェント日次速報 2026年6月15日版 AIエージェント運用は「状態変化を伝える設計」が必要になった</title>
-      <link>https://note.com/vivid_quince2775</link>
-      <guid isPermaLink="true">https://note.com/vivid_quince2775</guid>
+      <link>https://note.com/vivid_quince2775/n/n871c07ed6acc</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n871c07ed6acc</guid>
       <pubDate>Mon, 15 Jun 2026 09:00:00 +0900</pubDate>
       <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260615-daily-2026-06-15.mp3" length="16866460" type="audio/mpeg" />
-      <description>2026年6月15日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw まわりの一次情報と信頼できる関連情報を確認しました。 今日は、単発の新機能を追うというより、直近の流れをもう一段実務に寄せて見ます。 6月12日は、AIエージェントの成果物を「完了した」とどう証明するかを見ました。...</description>
-      <itunes:summary>2026年6月15日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw まわりの一次情報と信頼できる関連情報を確認しました。 今日は、単発の新機能を追うというより、直近の流れをもう一段実務に寄せて見ます。 6月12日は、AIエージェントの成果物を「完了した」とどう証明するかを見ました。...</itunes:summary>
-      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <description>2026年6月15日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw...</description>
+      <itunes:summary>2026年6月15日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw...</itunes:summary>
+      <itunes:author />
       <itunes:explicit>false</itunes:explicit>
-      <content:encoded>https://note.com/vivid_quince2775</content:encoded>
+      <content:encoded>https://note.com/vivid_quince2775/n/n871c07ed6acc</content:encoded>
     </item>
     <item>
       <title>AIエージェント日次速報 2026年6月14日版 AIエージェント運用は「依存先が変わる前提」で組む段階に入った</title>
@@ -127,7 +127,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:34:49 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
