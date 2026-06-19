@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年6月19日版 AIエージェント運用は「使われた痕跡」で改善する段階に入った</title>
+      <link>https://note.com/vivid_quince2775/n/nc2624f51f355</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nc2624f51f355</guid>
+      <pubDate>Fri, 19 Jun 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260619-daily-2026-06-19.mp3" length="17097592" type="audio/mpeg" />
+      <description>2026年6月19日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw まわりの一次情報と信頼できる関連情報を確認しました。 今日は、AIエージェントを導入・移行した後に残る「使われた痕跡」をどう読むか、という観点で整理します。 6月16日は、AIエージェントにどこまで見せ、どこまで実行させるかという権限設計を見ました。...</description>
+      <itunes:summary>2026年6月19日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw まわりの一次情報と信頼できる関連情報を確認しました。 今日は、AIエージェントを導入・移行した後に残る「使われた痕跡」をどう読むか、という観点で整理します。 6月16日は、AIエージェントにどこまで見せ、どこまで実行させるかという権限設計を見ました。...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nc2624f51f355</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年6月18日版 AIエージェント運用は「切替後の検収と後始末」が勝負になる</title>
       <link>https://note.com/vivid_quince2775/n/na89f7ad57d71</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/na89f7ad57d71</guid>
@@ -163,7 +175,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:42:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:31:31 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
