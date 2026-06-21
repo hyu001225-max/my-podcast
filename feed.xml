@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIの待ち時間は進化している</title>
+      <link>https://note.com/vivid_quince2775/n/nd1b7574e9e8b</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd1b7574e9e8b</guid>
+      <pubDate>Sun, 21 Jun 2026 10:43:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260621-daily-2026-06-21.mp3" length="18085229" type="audio/mpeg" />
+      <description>AIエージェント日次速報 2026年6月21日版。AIエージェント運用の待ち時間を状態として扱う実務観点を、ラジオ形式で整理します。</description>
+      <itunes:summary>AIエージェント日次速報 2026年6月21日版。AIエージェント運用の待ち時間を状態として扱う実務観点を、ラジオ形式で整理します。</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd1b7574e9e8b</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年6月20日版 AIエージェント運用は「無人時間の失敗」に備える段階に入った</title>
       <link>https://note.com/vivid_quince2775/n/necfddd03d285</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/necfddd03d285</guid>
@@ -187,7 +199,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:49:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 02:07:27 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
