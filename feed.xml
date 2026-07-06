@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月6日版 再開できるAIほど、二重実行をどう防ぐかが重要になる</title>
+      <link>https://note.com/vivid_quince2775/n/na519fd825881</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/na519fd825881</guid>
+      <pubDate>Mon, 06 Jul 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260706-daily-2026-07-06.mp3" length="15289918" type="audio/mpeg" />
+      <description>2026年7月6日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw まわりの一次情報と関連情報を確認しました。 昨日は、遠隔・常駐エージェントでは「どこから再開できるか」が運用品質になる、という見方で整理しました。 今日は、その次に来る話です。...</description>
+      <itunes:summary>2026年7月6日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw まわりの一次情報と関連情報を確認しました。 昨日は、遠隔・常駐エージェントでは「どこから再開できるか」が運用品質になる、という見方で整理しました。 今日は、その次に来る話です。...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/na519fd825881</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月5日版 遠隔・常駐エージェントは「どこから再開できるか」が運用品質になる</title>
       <link>https://note.com/vivid_quince2775/n/ncdd882d405fa</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ncdd882d405fa</guid>
@@ -367,7 +379,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:51:10 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
