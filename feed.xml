@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月8日版 AIエージェントは「動いた結果」だけでなく、判断理由まで残す段階に入った</title>
+      <link>https://note.com/vivid_quince2775/n/n72d9c3f5acd7</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n72d9c3f5acd7</guid>
+      <pubDate>Wed, 08 Jul 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260708-daily-2026-07-08.mp3" length="17077948" type="audio/mpeg" />
+      <description>2026年7月8日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw まわりの一次情報と関連情報を確認しました。 今日は、単発の大きな発表が一つ出た日というより、AIエージェントの運用で見落とされやすい論点が見えた日です。...</description>
+      <itunes:summary>2026年7月8日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw まわりの一次情報と関連情報を確認しました。 今日は、単発の大きな発表が一つ出た日というより、AIエージェントの運用で見落とされやすい論点が見えた日です。...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n72d9c3f5acd7</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月7日版 個人の便利ツールから、組織で配る業務インフラへ移っている</title>
       <link>https://note.com/vivid_quince2775/n/n8e6a56c1c2a4</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n8e6a56c1c2a4</guid>
@@ -391,7 +403,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:24:16 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
