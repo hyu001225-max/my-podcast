@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月12日版　AIに仕事を振り分けたあと、最後に残るのは「合格」の決め方</title>
+      <link>https://note.com/vivid_quince2775/n/n99b5ccff3954</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n99b5ccff3954</guid>
+      <pubDate>Sun, 12 Jul 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260712-daily-2026-07-12.mp3" length="19547669" type="audio/mpeg" />
+      <description>AIエージェントを複数動かせるようになると、仕事が速く片づく。そこまでは気分がいいです。 ただ、昨日の速報を書きながら、少し嫌な想像もした。5つの小さなタスクが全部「完了」になっていて、最後に触った人だけが「これ、本当に出していいの？」と止まる状態だ。 レビュー担当者が困るのは、AIが作業した量ではない。何を確認すれば合格にできるのかが分からないときです。 2026年7月12日現在、Codex / Claude Code /...</description>
+      <itunes:summary>AIエージェントを複数動かせるようになると、仕事が速く片づく。そこまでは気分がいいです。 ただ、昨日の速報を書きながら、少し嫌な想像もした。5つの小さなタスクが全部「完了」になっていて、最後に触った人だけが「これ、本当に出していいの？」と止まる状態だ。 レビュー担当者が困るのは、AIが作業した量ではない。何を確認すれば合格にできるのかが分からないときです。 2026年7月12日現在、Codex / Claude Code /...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n99b5ccff3954</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月11日版 AIエージェントは『一体に任せる』から『仕事を振り分ける』段階へ</title>
       <link>https://note.com/vivid_quince2775/n/n191c2c8a808a</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n191c2c8a808a</guid>
@@ -439,7 +451,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 11 Jul 2026 01:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:30:00 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
