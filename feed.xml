@@ -2,6 +2,27 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月14日版　AIへの指示を「会話の中」から外へ出そう</title>
+      <link>https://note.com/vivid_quince2775/n/n5442173b3336</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n5442173b3336</guid>
+      <pubDate>Tue, 14 Jul 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260714-daily-2026-07-14.mp3" length="19330330" type="audio/mpeg" />
+      <description>朝に動かしたAIエージェントが、夕方には別のエージェントや人の手に渡る。いまの仕事では、これはもう珍しい話ではない。
+
+昨日は、止まった仕事をどこから安全に再開するかを書いた。今日は再開方法の話ではない。日々の会話で生まれた指示を、次の担当が使える場所へどう移すかを考えたい。調べたURLはどれか。変更してよいファイルはどれか。まだ決まっていない判断は何か。これが会話の奥に沈んだままだと、次の担当は毎回ゼロから仕事を読み直すことになります。
+
+2026年7月14日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw...</description>
+      <itunes:summary>朝に動かしたAIエージェントが、夕方には別のエージェントや人の手に渡る。いまの仕事では、これはもう珍しい話ではない。
+
+昨日は、止まった仕事をどこから安全に再開するかを書いた。今日は再開方法の話ではない。日々の会話で生まれた指示を、次の担当が使える場所へどう移すかを考えたい。調べたURLはどれか。変更してよいファイルはどれか。まだ決まっていない判断は何か。これが会話の奥に沈んだままだと、次の担当は毎回ゼロから仕事を読み直すことになります。
+
+2026年7月14日時点で、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:20:08</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/n5442173b3336</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月13日版　AIエージェントが止まったとき、「もう一度やる」前に決めたいこと</title>
       <link>https://note.com/vivid_quince2775/n/n33e644f02a7f</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n33e644f02a7f</guid>
@@ -463,7 +484,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Jul 2026 00:49:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 00:50:56 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
