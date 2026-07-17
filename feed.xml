@@ -2,6 +2,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月18日版　AIに仕事を任せる前に、「何回まで」を決めていますか</title>
+      <link>https://note.com/vivid_quince2775/n/nd538359132c0</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd538359132c0</guid>
+      <pubDate>Sat, 18 Jul 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260718-daily-2026-07-18.mp3" length="18364008" type="audio/mpeg" />
+      <description>朝からAIエージェントの更新を追っていたら、Claude Codeのリリースノートに出てきた数字で手が止まりました。200回。Web検索と子エージェント起動に、それぞれ既定の上限が入ったそうです。
+
+200回なら、ふつうの調査ではまず困りません。それでも開発元が上限を置いた。AIが賢くなるほど、止める理由を自分で見つけてくれるとは限らないからでしょう。
+
+朝はパンと紅茶でさっと済ませたいのに、エージェントが裏で延々と検索を続けていたら落ち着かない。まあ、200回も回す前に気づけよという話ではあるんですが。
+
+2026年7月18日時点で、Codex / Claude Code / Antigravity / Manus /...</description>
+      <itunes:summary>朝からAIエージェントの更新を追っていたら、Claude Codeのリリースノートに出てきた数字で手が止まりました。200回。Web検索と子エージェント起動に、それぞれ既定の上限が入ったそうです。
+
+200回なら、ふつうの調査ではまず困りません。それでも開発元が上限を置いた。AIが賢くなるほど、止める理由を自分で見つけてくれるとは限らないからでしょう。
+
+朝はパンと紅茶でさっと済ませたいのに、エージェントが裏で延々と検索を続けていたら落ち着かない。まあ、200回も回す前に気づけよという話ではあるんですが。
+
+2026年7月18日時点で、Codex / Claude Code / Antigravity / Manus /...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>1147.669478</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd538359132c0</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月17日版　その「許可する」、何を許しているか読めていますか</title>
       <link>https://note.com/vivid_quince2775/n/n02a89b0f097e</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n02a89b0f097e</guid>
@@ -520,7 +545,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 16 Jul 2026 22:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:29:17 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
