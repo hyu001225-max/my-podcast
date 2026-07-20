@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月20日版　その「自動でやるはず」、アップデート後も残っていますか</title>
+      <link>https://note.com/vivid_quince2775/n/n7b0e1fd6ec4c?sub_rt=share_pb</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n7b0e1fd6ec4c?sub_rt=share_pb</guid>
+      <pubDate>Mon, 20 Jul 2026 09:17:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260720-daily-2026-07-20.mp3" length="19945148" type="audio/mpeg" />
+      <description>今朝、Claude Codeの最新リリースを読んでいて、ちょっと身構えました。
+
+v2.1.215では、/verify と /code-review をClaudeが自発的に実行しなくなったそうです。必要なら、人が明示して呼ぶ。たった一行の変更ですが、昨日まで「最後に勝手に確認してくれる」と思っていた人にはけっこう大きい。
+
+自動化は、動いた時より動かなかった時のほうが見つけにくいです。エラーなら赤くなります。でも、確認工程が呼ばれず、そのまま正常終了したら赤くならない。朝のパンを焼きながら結果だけ眺めていると、たぶん見逃します。
+
+2026年7月20日時点で、Codex / Claude Code / Antigravity /...</description>
+      <itunes:summary>今朝、Claude Codeの最新リリースを読んでいて、ちょっと身構えました。
+
+v2.1.215では、/verify と /code-review をClaudeが自発的に実行しなくなったそうです。必要なら、人が明示して呼ぶ。たった一行の変更ですが、昨日まで「最後に勝手に確認してくれる」と思っていた人にはけっこう大きい。
+
+自動化は、動いた時より動かなかった時のほうが見つけにくいです。エラーなら赤くなります。でも、確認工程が呼ばれず、そのまま正常終了したら赤くならない。朝のパンを焼きながら結果だけ眺めていると、たぶん見逃します。
+
+2026年7月20日時点で、Codex / Claude Code / Antigravity /...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n7b0e1fd6ec4c?sub_rt=share_pb</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月19日版　そのAI、どのPCで仕事していますか</title>
       <link>https://note.com/vivid_quince2775/n/ne49e31295611</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ne49e31295611</guid>
@@ -558,7 +582,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 18 Jul 2026 22:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:40:36 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
