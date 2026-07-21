@@ -3,15 +3,15 @@
   <channel>
     <item>
       <title>AIエージェント日次速報 2026年7月21日版　AIが速くなったのに、仕事が早く終わらないのはなぜか</title>
-      <link>https://note.com/vivid_quince2775</link>
-      <guid isPermaLink="true">https://note.com/vivid_quince2775</guid>
+      <link>https://note.com/vivid_quince2775/n/n22bcebbc45d5</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n22bcebbc45d5</guid>
       <pubDate>Tue, 21 Jul 2026 09:00:00 +0900</pubDate>
       <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260721-daily-2026-07-21.mp3" length="17674376" type="audio/mpeg" />
       <description>今朝、HermesAgentのリリースノートにある「約80%短縮」という数字を見て、ちょっとテンションが上がりました。 最初の応答が出るまで、約4.3秒から約0.9秒へ。長い返事を表示する処理も軽くなり、子エージェントの作業はその場で追えるようになったそうです。速い。これは素直にうれしい。...</description>
       <itunes:summary>今朝、HermesAgentのリリースノートにある「約80%短縮」という数字を見て、ちょっとテンションが上がりました。 最初の応答が出るまで、約4.3秒から約0.9秒へ。長い返事を表示する処理も軽くなり、子エージェントの作業はその場で追えるようになったそうです。速い。これは素直にうれしい。...</itunes:summary>
       <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
       <itunes:explicit>false</itunes:explicit>
-      <content:encoded>https://note.com/vivid_quince2775</content:encoded>
+      <content:encoded>https://note.com/vivid_quince2775/n/n22bcebbc45d5</content:encoded>
     </item>
     <item>
       <title>AIエージェント日次速報 2026年7月20日版　その「自動でやるはず」、アップデート後も残っていますか</title>
@@ -582,7 +582,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Jul 2026 00:44:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 00:44:43 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
