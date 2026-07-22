@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月22日版　AIを乗り換えたら、仕事の記憶まで連れていけますか</title>
+      <link>https://note.com/vivid_quince2775</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260722-daily-2026-07-22.mp3" length="20411590" type="audio/mpeg" />
+      <description>`project-scoped memories`の一行で、眠気が飛びました。 日本時間の今朝公開されたCodex 0.145.0は、CursorやClaude Codeから設定、会話、コマンド、プロジェクト単位の記憶まで取り込めるようになったそうです。まだ試験的な機能を含みますが、安定版のリリース欄に「記憶の引っ越し」が出てきた。これはけっこう大きい。...</description>
+      <itunes:summary>`project-scoped memories`の一行で、眠気が飛びました。 日本時間の今朝公開されたCodex 0.145.0は、CursorやClaude Codeから設定、会話、コマンド、プロジェクト単位の記憶まで取り込めるようになったそうです。まだ試験的な機能を含みますが、安定版のリリース欄に「記憶の引っ越し」が出てきた。これはけっこう大きい。...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月21日版　AIが速くなったのに、仕事が早く終わらないのはなぜか</title>
       <link>https://note.com/vivid_quince2775/n/n22bcebbc45d5</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n22bcebbc45d5</guid>
@@ -582,7 +594,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Jul 2026 00:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 00:06:03 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
