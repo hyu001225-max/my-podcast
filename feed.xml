@@ -2,6 +2,39 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月24日版　AIのエラー、成功っぽく片づけていませんか</title>
+      <link>https://note.com/vivid_quince2775/n/n05dae7452f7a</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n05dae7452f7a</guid>
+      <pubDate>Thu, 23 Jul 2026 23:37:09 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260724-daily-2026-07-24.mp3" length="20437922" type="audio/mpeg" />
+      <description>「完了」と表示された。ファイルは空だった。
+
+AIエージェントの失敗で、これがいちばん厄介です。
+
+派手な赤いエラーなら止まれます。接続できない、権限がない、ファイルが見つからない。ここまでは分かりやすい。
+
+困るのは、読めなかった履歴を「履歴なし」として扱う、古い数字を「現在値」として出す、別経路で動いた処理を「正常」と判定する、といった失敗です。画面だけ見ると仕事が終わったように見える。でも、次の工程へ渡すと崩れる。
+
+朝からパンを焦がしたくらいなら、黒いところを削れば何とかなります。空のMarkdownを午後まで信じた時は、削る場所すらありません。
+
+2026年7月24日午前6時2分の日本時間を基準に、Codex /...</description>
+      <itunes:summary>「完了」と表示された。ファイルは空だった。
+
+AIエージェントの失敗で、これがいちばん厄介です。
+
+派手な赤いエラーなら止まれます。接続できない、権限がない、ファイルが見つからない。ここまでは分かりやすい。
+
+困るのは、読めなかった履歴を「履歴なし」として扱う、古い数字を「現在値」として出す、別経路で動いた処理を「正常」と判定する、といった失敗です。画面だけ見ると仕事が終わったように見える。でも、次の工程へ渡すと崩れる。
+
+朝からパンを焦がしたくらいなら、黒いところを削れば何とかなります。空のMarkdownを午後まで信じた時は、削る場所すらありません。
+
+2026年7月24日午前6時2分の日本時間を基準に、Codex /...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>1277.306485</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/n05dae7452f7a</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月23日版　AIの計画書、承認する前にどこまで直せますか</title>
       <link>https://note.com/vivid_quince2775/n/n94e984a6f619</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n94e984a6f619</guid>
@@ -606,7 +639,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 22 Jul 2026 22:27:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 23:37:09 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
