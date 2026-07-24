@@ -2,6 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIの伝言ゲームを制す四行の伝票</title>
+      <link>https://note.com/vivid_quince2775/n/n8a422156b3c0</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n8a422156b3c0</guid>
+      <pubDate>Sat, 25 Jul 2026 07:05:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260725-daily-2026-07-25.mp3" length="18635682" type="audio/mpeg" />
+      <description>AIエージェントが仕事を孫へ引き継ぐ時に、指示・禁止事項・完了条件を失わないための実務解説です。</description>
+      <itunes:summary>AIエージェントが仕事を孫へ引き継ぐ時に、指示・禁止事項・完了条件を失わないための実務解説です。</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>19:24</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/n8a422156b3c0</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月24日版　AIのエラー、成功っぽく片づけていませんか</title>
       <link>https://note.com/vivid_quince2775/n/n05dae7452f7a</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n05dae7452f7a</guid>
@@ -639,7 +652,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 23 Jul 2026 23:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:30:37 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
