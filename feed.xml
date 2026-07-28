@@ -2,6 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIに成果を証明させる完了伝票</title>
+      <link>https://note.com/vivid_quince2775/n/n0e1d9f98a960?sub_rt=share_pb</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0e1d9f98a960?sub_rt=share_pb</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260728-daily-2026-07-28.mp3" length="18600573" type="audio/mpeg" />
+      <description>AIエージェントの完了を、成果物・検証データ・実行ログで証明する方法を整理します。</description>
+      <itunes:summary>AIエージェントの完了を、成果物・検証データ・実行ログで証明する方法を整理します。</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:19:22.46</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/n0e1d9f98a960?sub_rt=share_pb</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月27日版　AIが途中で止まったあと、どこから再開しますか</title>
       <link>https://note.com/vivid_quince2775/n/n2dc2d6c175f3?sub_rt=share_pb</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n2dc2d6c175f3?sub_rt=share_pb</guid>
@@ -696,7 +709,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 27 Jul 2026 01:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:21:35 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
