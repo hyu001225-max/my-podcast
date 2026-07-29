@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月30日版　AIに任せる前に、どこまで許可しますか</title>
+      <link>https://note.com/vivid_quince2775/n/n8fdea6788304</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n8fdea6788304</guid>
+      <pubDate>Wed, 29 Jul 2026 23:56:29 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260730-daily-2026-07-30.mp3" length="21874865" type="audio/mpeg" />
+      <description>AIエージェントに「全部やっておいて」と頼めるようになると、仕事は楽になる。
+
+同時に、頼む前の一言が足りなくなります。
+
+このファイルは読んでいい。ここは編集していい。外部サイトは見ていい。でも、送信ボタンは押さないでほしい。そういう境界を決めないまま自動化を進めると、AIの性能より先に、自分の判断が追いつかなくなります。
+
+2026年7月30日午前6時2分の日本時間を基準に、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw...</description>
+      <itunes:summary>AIエージェントに「全部やっておいて」と頼めるようになると、仕事は楽になる。
+
+同時に、頼む前の一言が足りなくなります。
+
+このファイルは読んでいい。ここは編集していい。外部サイトは見ていい。でも、送信ボタンは押さないでほしい。そういう境界を決めないまま自動化を進めると、AIの性能より先に、自分の判断が追いつかなくなります。
+
+2026年7月30日午前6時2分の日本時間を基準に、Codex / Claude Code / Antigravity / Manus / Genspark / HermesAgent / OpenClaw...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n8fdea6788304</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月29日版　AIの成果物を、次の人にそのまま渡せますか</title>
       <link>https://note.com/vivid_quince2775/n/n0965bf11fa93</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0965bf11fa93</guid>
@@ -737,7 +761,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Jul 2026 00:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:56:29 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
