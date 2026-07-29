@@ -2,6 +2,34 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月29日版　AIの成果物を、次の人にそのまま渡せますか</title>
+      <link>https://note.com/vivid_quince2775/n/n0965bf11fa93</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0965bf11fa93</guid>
+      <pubDate>Wed, 29 Jul 2026 00:27:04 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260729-daily-2026-07-29.mp3" length="17225069" type="audio/mpeg" />
+      <description>AIに仕事を頼んだあと、返事が長いほど安心できるわけではありません。
+
+むしろ、次に開くべきファイルが一つだけ置かれているほうが助かります。
+
+どこまで進んだか。何を確認したか。次に誰が何をすればいいか。これが一枚にまとまっていれば、担当者が変わっても、翌朝になっても、作業は続きます。
+
+逆に、AIが会話の中で立派な説明をしていても、成果物が散らばっていると引き継ぎで止まる。読んだ人がもう一度、AIに聞き直すことになります。これは自動化というより、質問のたらい回しです。
+
+2026年7月29日午前6時2分の日本時間を基準に、Codex / Claude Code / Antigravity / Manus / Genspark /...</description>
+      <itunes:summary>AIに仕事を頼んだあと、返事が長いほど安心できるわけではありません。
+
+むしろ、次に開くべきファイルが一つだけ置かれているほうが助かります。
+
+どこまで進んだか。何を確認したか。次に誰が何をすればいいか。これが一枚にまとまっていれば、担当者が変わっても、翌朝になっても、作業は続きます。
+
+逆に、AIが会話の中で立派な説明をしていても、成果物が散らばっていると引き継ぎで止まる。読んだ人がもう一度、AIに聞き直すことになります。これは自動化というより、質問のたらい回しです。
+
+2026年7月29日午前6時2分の日本時間を基準に、Codex / Claude Code / Antigravity / Manus / Genspark /...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n0965bf11fa93</content:encoded>
+    </item>
+    <item>
       <title>AIに成果を証明させる完了伝票</title>
       <link>https://note.com/vivid_quince2775/n/n0e1d9f98a960?sub_rt=share_pb</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0e1d9f98a960?sub_rt=share_pb</guid>
@@ -709,7 +737,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 28 Jul 2026 00:21:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:27:04 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
