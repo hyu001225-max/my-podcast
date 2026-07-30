@@ -2,6 +2,39 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年7月31日版　AIを選ぶ前に、どこを「仕事場」にしますか</title>
+      <link>https://note.com/vivid_quince2775/n/nd9ca96ebe054</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd9ca96ebe054</guid>
+      <pubDate>Fri, 31 Jul 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260731-daily-2026-07-31.mp3" length="17739159" type="audio/mpeg" />
+      <description>AIエージェントの比較記事を読んでいると、ついモデルの賢さや機能の数を比べたくなります。
+
+でも、7月の公式発表を続けて見ていると、別の変化が目につきました。
+
+AIエージェントは、チャット欄の中の便利な機能から、それぞれ違う「仕事場」を持つ存在へ移りつつあります。
+
+あるものはリポジトリに住み、あるものはクラウドPCを持ち、あるものはメールや会議の記憶を抱える。違いは、何を答えられるかだけではありません。仕事の状態を、どこに置くかです。
+
+エージェントの差は、モデルより「居場所」に出る
+
+直近の記事では、完了条件、引き渡し、許可の強さを見てきました。昨日が「何を実行させてよいか」なら、今日は「作業状態をどこに置き、別の人やエージェ...</description>
+      <itunes:summary>AIエージェントの比較記事を読んでいると、ついモデルの賢さや機能の数を比べたくなります。
+
+でも、7月の公式発表を続けて見ていると、別の変化が目につきました。
+
+AIエージェントは、チャット欄の中の便利な機能から、それぞれ違う「仕事場」を持つ存在へ移りつつあります。
+
+あるものはリポジトリに住み、あるものはクラウドPCを持ち、あるものはメールや会議の記憶を抱える。違いは、何を答えられるかだけではありません。仕事の状態を、どこに置くかです。
+
+エージェントの差は、モデルより「居場所」に出る
+
+直近の記事では、完了条件、引き渡し、許可の強さを見てきました。昨日が「何を実行させてよいか」なら、今日は「作業状態をどこに置き、別の人やエージェ...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:18:28.61</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd9ca96ebe054</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月30日版　AIに任せる前に、どこまで許可しますか</title>
       <link>https://note.com/vivid_quince2775/n/n8fdea6788304</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n8fdea6788304</guid>
@@ -761,7 +794,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Jul 2026 23:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:44:57 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
