@@ -2,6 +2,34 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIの暴走を止める計画モードの設計</title>
+      <link>https://note.com/vivid_quince2775/n/n83b1419dca16</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n83b1419dca16</guid>
+      <pubDate>Fri, 31 Jul 2026 23:48:34 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260801-daily-2026-08-01.mp3" length="18019610" type="audio/mpeg" />
+      <description>AIエージェントに仕事を頼むとき、最初の一文をどう書くかばかり考えてしまう。
+
+けれど、最近の製品を見ていると、重要なのはプロンプトの巧拙だけではない。仕事が始まる前に、エージェントが作った「進め方」をどこで見て、どの時点で固定し、途中で方針を変えるとき何を残すのか。その設計が、製品ごとにかなり違う。
+
+直近の記事では、完了の証拠、次の人への引き渡し、実行許可、仕事場の置き場所を見てきた。今日はその一段手前、**実行前の計画をどう扱うか**を掘る。計画は単なる下書きではない。エージェントにどこまで考えさせ、人間がどこで判断し、実行をどの面へ渡すかを決める操作面だ。
+
+計画は「考え中の文章」ではなく、実行面への切り替えスイッチ
+
+人間...</description>
+      <itunes:summary>AIエージェントに仕事を頼むとき、最初の一文をどう書くかばかり考えてしまう。
+
+けれど、最近の製品を見ていると、重要なのはプロンプトの巧拙だけではない。仕事が始まる前に、エージェントが作った「進め方」をどこで見て、どの時点で固定し、途中で方針を変えるとき何を残すのか。その設計が、製品ごとにかなり違う。
+
+直近の記事では、完了の証拠、次の人への引き渡し、実行許可、仕事場の置き場所を見てきた。今日はその一段手前、**実行前の計画をどう扱うか**を掘る。計画は単なる下書きではない。エージェントにどこまで考えさせ、人間がどこで判断し、実行をどの面へ渡すかを決める操作面だ。
+
+計画は「考え中の文章」ではなく、実行面への切り替えスイッチ
+
+人間...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n83b1419dca16</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年7月31日版　AIを選ぶ前に、どこを「仕事場」にしますか</title>
       <link>https://note.com/vivid_quince2775/n/nd9ca96ebe054</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd9ca96ebe054</guid>
@@ -794,7 +822,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 23:48:34 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
