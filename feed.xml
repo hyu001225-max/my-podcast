@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年8月7日版　止まった仕事を二重実行せず再開できるか</title>
+      <link>https://note.com/vivid_quince2775/n/n86d9aa0c5f35</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n86d9aa0c5f35</guid>
+      <pubDate>Fri, 07 Aug 2026 09:08:14 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260807-daily-2026-08-07.mp3" length="6063051" type="audio/mpeg" />
+      <description>AIエージェントに仕事を任せるとき、完成したかどうかだけを見てしまう。
+
+でも、実務で本当に困るのは、途中で止まったときだ。ネットワークが切れた。PCを再起動した。権限確認で待ちになった。外部サービスへの送信結果が分からなくなった。ここで「もう一度やって」と頼むと、同じファイルを二重に作ったり、同じメールを二度送ったりする危険が出てくる。
+
+直近の記事では、エージェントをどこに置くか、出力をどう判断材料にするか、成果物をどう引き継ぐかを見てきた。今日はその続きとして、失敗した仕事の再開方法を見る。各社の公式情報を並べると、エージェントの成熟度は、最初からうまく動くことだけでなく、途中で止まった後の扱いに表れている。
+
+再開とは、最初...</description>
+      <itunes:summary>AIエージェントに仕事を任せるとき、完成したかどうかだけを見てしまう。
+
+でも、実務で本当に困るのは、途中で止まったときだ。ネットワークが切れた。PCを再起動した。権限確認で待ちになった。外部サービスへの送信結果が分からなくなった。ここで「もう一度やって」と頼むと、同じファイルを二重に作ったり、同じメールを二度送ったりする危険が出てくる。
+
+直近の記事では、エージェントをどこに置くか、出力をどう判断材料にするか、成果物をどう引き継ぐかを見てきた。今日はその続きとして、失敗した仕事の再開方法を見る。各社の公式情報を並べると、エージェントの成熟度は、最初からうまく動くことだけでなく、途中で止まった後の扱いに表れている。
+
+再開とは、最初...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n86d9aa0c5f35</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年8月5日版　出力を判断材料に変えるまで</title>
       <link>https://note.com/vivid_quince2775/n/ndeca3c983cb8?sub_rt=share_pb</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ndeca3c983cb8?sub_rt=share_pb</guid>
@@ -894,7 +918,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 05 Aug 2026 01:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 01:01:45 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
