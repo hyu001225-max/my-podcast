@@ -2,6 +2,39 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年8月12日版　AIを増やす前に「レビュー画面」を決めたい</title>
+      <link>https://note.com/vivid_quince2775/n/n65da4036159d</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n65da4036159d</guid>
+      <pubDate>Tue, 11 Aug 2026 22:15:54 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260812-daily-2026-08-12.mp3" length="6230235" type="audio/mpeg" />
+      <description>AIエージェントを何種類も使えるようになると、仕事が速くなる気がする。
+
+でも、実際に困るのはエージェントが足りないときより、作業の途中で「いま何を見れば判断できるのか」が分からなくなったときだ。計画を読めばいいのか、差分を見るのか、会話の履歴を追うのか。ツールごとに答えが違う。
+
+ここ数日の記事では、仕事を止める条件、入力の契約、次の担当へ渡す形式を見てきた。今日はその一段手前にある、レビューの入口を比べる。
+
+引き継ぎ契約が「次の担当へ何を渡すか」なら、レビュー画面は「いま目の前の作業を進めてよいか、何を見て決めるか」だ。似ているようで、使う瞬間が違う。
+
+レビュー画面という考え方
+
+エージェントの仕事を人間が確認するとき、長い...</description>
+      <itunes:summary>AIエージェントを何種類も使えるようになると、仕事が速くなる気がする。
+
+でも、実際に困るのはエージェントが足りないときより、作業の途中で「いま何を見れば判断できるのか」が分からなくなったときだ。計画を読めばいいのか、差分を見るのか、会話の履歴を追うのか。ツールごとに答えが違う。
+
+ここ数日の記事では、仕事を止める条件、入力の契約、次の担当へ渡す形式を見てきた。今日はその一段手前にある、レビューの入口を比べる。
+
+引き継ぎ契約が「次の担当へ何を渡すか」なら、レビュー画面は「いま目の前の作業を進めてよいか、何を見て決めるか」だ。似ているようで、使う瞬間が違う。
+
+レビュー画面という考え方
+
+エージェントの仕事を人間が確認するとき、長い...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:06:29</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/n65da4036159d</content:encoded>
+    </item>
+    <item>
       <title>AIエージェントの暴走を防ぐ停止位置</title>
       <link>https://note.com/vivid_quince2775/n/nf0a27a08a5df</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nf0a27a08a5df</guid>
@@ -987,7 +1020,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 11 Aug 2026 02:49:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:15:54 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
