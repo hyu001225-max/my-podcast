@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェントの暴走を防ぐ停止位置</title>
+      <link>https://note.com/vivid_quince2775/n/nf0a27a08a5df</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nf0a27a08a5df</guid>
+      <pubDate>Tue, 11 Aug 2026 02:49:33 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260811-daily-2026-08-11.mp3" length="5899629" type="audio/mpeg" />
+      <description>AIエージェント日次速報 2026年8月11日版の音声解説。</description>
+      <itunes:summary>AIエージェント日次速報 2026年8月11日版の音声解説。</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nf0a27a08a5df</content:encoded>
+    </item>
+    <item>
       <title>有能なAIをどこで止めるか</title>
       <link>https://note.com/vivid_quince2775/n/nf728560e61d9</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nf728560e61d9</guid>
@@ -975,7 +987,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 10 Aug 2026 00:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 02:49:33 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
