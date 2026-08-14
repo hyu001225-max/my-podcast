@@ -2,6 +2,39 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年8月14日版　その仕事、あとから再現できますか？</title>
+      <link>https://note.com/vivid_quince2775/n/n17d0a86ff1a3</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n17d0a86ff1a3</guid>
+      <pubDate>Fri, 14 Aug 2026 00:01:49 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260814-daily-2026-08-14.mp3" length="6964171" type="audio/mpeg" />
+      <description>AIエージェントに仕事を任せるとき、つい完成したファイルだけを見てしまう。
+
+でも、数時間後に同じ作業をもう一度やりたくなったらどうだろう。担当者が変わったら。途中でモデルやツールが更新されたら。なぜその結果になったのか、説明できるだろうか。
+
+ここ数日の記事では、引き継ぎ契約、レビュー画面、アップデート後の仕事の置き場所を見てきた。今日は少し違う角度から、エージェントの仕事を「再現できる単位」で見る。
+
+再現とは、同じ文章をもう一度出すことではない。どの入力を使い、どの権限で、どの分岐を通り、どこで人が判断したかを、あとから追えることだ。
+
+いま必要なのは「完成品」より再現カード
+
+エージェントの成果物は、きれいなファイルだけでは...</description>
+      <itunes:summary>AIエージェントに仕事を任せるとき、つい完成したファイルだけを見てしまう。
+
+でも、数時間後に同じ作業をもう一度やりたくなったらどうだろう。担当者が変わったら。途中でモデルやツールが更新されたら。なぜその結果になったのか、説明できるだろうか。
+
+ここ数日の記事では、引き継ぎ契約、レビュー画面、アップデート後の仕事の置き場所を見てきた。今日は少し違う角度から、エージェントの仕事を「再現できる単位」で見る。
+
+再現とは、同じ文章をもう一度出すことではない。どの入力を使い、どの権限で、どの分岐を通り、どこで人が判断したかを、あとから追えることだ。
+
+いま必要なのは「完成品」より再現カード
+
+エージェントの成果物は、きれいなファイルだけでは...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:07:15</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/n17d0a86ff1a3</content:encoded>
+    </item>
+    <item>
       <title>AIの記憶喪失を防ぐ5行のメモ</title>
       <link>https://note.com/vivid_quince2775/n/n285fad3f7dd0</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n285fad3f7dd0</guid>
@@ -1049,7 +1082,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 00:01:49 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
