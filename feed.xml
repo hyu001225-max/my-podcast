@@ -2,6 +2,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AI迷子を防ぐ6つの通行証</title>
+      <link>https://note.com/vivid_quince2775/n/n0f648ee5a0d2</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0f648ee5a0d2</guid>
+      <pubDate>Sun, 16 Aug 2026 10:37:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260816-daily-2026-08-16.mp3" length="5721161" type="audio/mpeg" />
+      <description>AIエージェントを増やせば、仕事は速くなる。
+
+そう思っていた。けれど、実際に複数のエージェントを並べると、別のところで止まる。あるエージェントはクラウドで動き、別のエージェントは自分のPCで動く。ブラウザを触れるものもあれば、コードだけを扱うものもある。チャットから呼べるものと、決まったスケジュールで走るものもある。
+
+この違いを「性能差」として眺めていると、仕事の途中で迷子になる。必要なのは、どのモデルが賢いかだけではない。その仕事に、どの環境から、どの権限で、どの出口まで通すのかという通行証だ。
+
+ここ数日は、入力契約、レビュー画面、更新後の置き場所、再現カード、受け取り側の契約を見てきた。今日はその一つ前、仕事をエージェント...</description>
+      <itunes:summary>AIエージェントを増やせば、仕事は速くなる。
+
+そう思っていた。けれど、実際に複数のエージェントを並べると、別のところで止まる。あるエージェントはクラウドで動き、別のエージェントは自分のPCで動く。ブラウザを触れるものもあれば、コードだけを扱うものもある。チャットから呼べるものと、決まったスケジュールで走るものもある。
+
+この違いを「性能差」として眺めていると、仕事の途中で迷子になる。必要なのは、どのモデルが賢いかだけではない。その仕事に、どの環境から、どの権限で、どの出口まで通すのかという通行証だ。
+
+ここ数日は、入力契約、レビュー画面、更新後の置き場所、再現カード、受け取り側の契約を見てきた。今日はその一つ前、仕事をエージェント...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:05:57</itunes:duration>
+      <content:encoded>https://note.com/vivid_quince2775/n/n0f648ee5a0d2</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年8月15日版　成果物を渡す前に「受け取り側」を決める</title>
       <link>https://note.com/vivid_quince2775/n/nf5f32f836665</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nf5f32f836665</guid>
@@ -1106,7 +1131,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 14 Aug 2026 22:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 02:14:54 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
