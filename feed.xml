@@ -2,6 +2,34 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIに鍵を渡さない権限の境界線</title>
+      <link>https://note.com/vivid_quince2775/n/nab4bd349a0cf</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nab4bd349a0cf</guid>
+      <pubDate>Wed, 19 Aug 2026 23:53:10 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260820-daily-2026-08-20.mp3" length="6511522" type="audio/mpeg" />
+      <description>AIエージェントにコードを書かせると、次にやりたくなるのは実行までの丸投げだ。
+
+「テストも回して、必要なら直しておいて」と頼めば、こちらは別の仕事へ移れる。うまくいけば気持ちいい。けれど、その一文には、ファイルの変更、コマンド実行、ネットワーク接続、外部サービスへの送信まで混ざっている。
+
+全部を許可するか、全部を止めるか。この二択で考えると、どちらも使いにくい。最近の公式ドキュメントを読み比べて、今日は権限を三つに分けて考えることにした。作業場所を閉じ込めること、危ない操作の前で止めること、外へ出る通信を制限すること。この三つは似ているが、同じスイッチではない。
+
+「安全」の中身を分ける
+
+まず、エージェントに何をさせたくないの...</description>
+      <itunes:summary>AIエージェントにコードを書かせると、次にやりたくなるのは実行までの丸投げだ。
+
+「テストも回して、必要なら直しておいて」と頼めば、こちらは別の仕事へ移れる。うまくいけば気持ちいい。けれど、その一文には、ファイルの変更、コマンド実行、ネットワーク接続、外部サービスへの送信まで混ざっている。
+
+全部を許可するか、全部を止めるか。この二択で考えると、どちらも使いにくい。最近の公式ドキュメントを読み比べて、今日は権限を三つに分けて考えることにした。作業場所を閉じ込めること、危ない操作の前で止めること、外へ出る通信を制限すること。この三つは似ているが、同じスイッチではない。
+
+「安全」の中身を分ける
+
+まず、エージェントに何をさせたくないの...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nab4bd349a0cf</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年8月19日版</title>
       <link>https://note.com/vivid_quince2775/n/n410a04435c2d</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n410a04435c2d</guid>
@@ -1213,7 +1241,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:53:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:53:10 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
