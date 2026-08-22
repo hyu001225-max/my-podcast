@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIを賢くする記憶の捨て方</title>
+      <link>https://note.com/vivid_quince2775/n/nf52f9680507e</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nf52f9680507e</guid>
+      <pubDate>Sat, 22 Aug 2026 09:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260822-daily-2026-08-22.mp3" length="6030033" type="audio/mpeg" />
+      <description>AIエージェントに同じ説明を何度もするのは、かなり面倒だ。
+
+プロジェクトの決まり、昨日までの判断、いつもの好み。こちらは一度伝えたつもりなのに、翌日になるとまた最初から説明する。そこで「記憶機能があるエージェント」を探したくなる。
+
+ただ、記憶が増えれば仕事が安定するとは限らない。古いルールを覚えていたり、別の案件の事情を持ち込んだり、覚えた内容がどこに保存されたのか分からなかったりするからだ。記憶は便利な機能である前に、運用するデータだと思ったほうがいい。
+
+直近では、権限、接続、決済の順に、エージェントが外へ出るときの境界を見てきた。今日は逆向きに、エージェントが仕事を続けるために内側へ何を残すのかを見る。テーマは「記憶」だが...</description>
+      <itunes:summary>AIエージェントに同じ説明を何度もするのは、かなり面倒だ。
+
+プロジェクトの決まり、昨日までの判断、いつもの好み。こちらは一度伝えたつもりなのに、翌日になるとまた最初から説明する。そこで「記憶機能があるエージェント」を探したくなる。
+
+ただ、記憶が増えれば仕事が安定するとは限らない。古いルールを覚えていたり、別の案件の事情を持ち込んだり、覚えた内容がどこに保存されたのか分からなかったりするからだ。記憶は便利な機能である前に、運用するデータだと思ったほうがいい。
+
+直近では、権限、接続、決済の順に、エージェントが外へ出るときの境界を見てきた。今日は逆向きに、エージェントが仕事を続けるために内側へ何を残すのかを見る。テーマは「記憶」だが...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nf52f9680507e</content:encoded>
+    </item>
+    <item>
       <title>AIに鍵を渡さない権限の境界線</title>
       <link>https://note.com/vivid_quince2775/n/nab4bd349a0cf</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nab4bd349a0cf</guid>
@@ -1241,7 +1265,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:43:16 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
