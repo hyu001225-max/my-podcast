@@ -2,10 +2,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
-      <title>AIを賢くする記憶の捨て方</title>
+      <title>AIエージェント日次速報 2026年8月22日版　覚えているつもりをやめて、仕事の記録を残す</title>
       <link>https://note.com/vivid_quince2775/n/nf52f9680507e</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nf52f9680507e</guid>
-      <pubDate>Sat, 22 Aug 2026 09:00:00 +0900</pubDate>
+      <pubDate>Sat, 22 Aug 2026 02:13:49 +0000</pubDate>
       <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260822-daily-2026-08-22.mp3" length="6030033" type="audio/mpeg" />
       <description>AIエージェントに同じ説明を何度もするのは、かなり面倒だ。
 
@@ -1265,7 +1265,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 22 Aug 2026 01:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 02:13:49 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
