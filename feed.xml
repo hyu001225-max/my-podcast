@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年8月25日版　AIに「毎朝やって」と頼む前に　定例・見回り・イベントを分ける</title>
+      <link>https://note.com/vivid_quince2775/n/ne2e66efae22d</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ne2e66efae22d</guid>
+      <pubDate>Tue, 25 Aug 2026 07:07:50 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260825-daily-2026-08-25.mp3" length="5803081" type="audio/mpeg" />
+      <description>AIエージェントに「毎朝、昨日の状況をまとめて」と頼みたくなる。
+
+一度うまくいくと、あとは時刻を指定するだけに見える。けれど、毎日同じ時刻に動く仕事と、何か起きたときだけ動く仕事と、定期的に様子を見る仕事は同じではない。ここを一つの「自動化」に押し込むと、不要な通知が増えたり、古い文脈で処理したり、失敗したのに気づけなかったりする。
+
+22日は記憶、23日は完了の検収、24日は作業場所を見た。今日は、その仕事をいつ起こすかを考える。テーマは、AIを常駐させることではなく、仕事の種類に合った起動方法を選ぶことだ。
+
+これは性能比較でも、その日のニュース解説でもない。7つの公式情報を、定刻に実行する、背景で走らせる、イベントで呼び出す...</description>
+      <itunes:summary>AIエージェントに「毎朝、昨日の状況をまとめて」と頼みたくなる。
+
+一度うまくいくと、あとは時刻を指定するだけに見える。けれど、毎日同じ時刻に動く仕事と、何か起きたときだけ動く仕事と、定期的に様子を見る仕事は同じではない。ここを一つの「自動化」に押し込むと、不要な通知が増えたり、古い文脈で処理したり、失敗したのに気づけなかったりする。
+
+22日は記憶、23日は完了の検収、24日は作業場所を見た。今日は、その仕事をいつ起こすかを考える。テーマは、AIを常駐させることではなく、仕事の種類に合った起動方法を選ぶことだ。
+
+これは性能比較でも、その日のニュース解説でもない。7つの公式情報を、定刻に実行する、背景で走らせる、イベントで呼び出す...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/ne2e66efae22d</content:encoded>
+    </item>
+    <item>
       <title>AIを隔離してチームで動かす</title>
       <link>https://note.com/vivid_quince2775/n/naa0b282ffc10</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/naa0b282ffc10</guid>
@@ -1315,7 +1339,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:44:56 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
