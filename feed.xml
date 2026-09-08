@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月8日版　止まった仕事を、明日の自分に渡す</title>
+      <link>https://note.com/vivid_quince2775/n/nef58a3976a7e</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nef58a3976a7e</guid>
+      <pubDate>Tue, 08 Sep 2026 01:52:15 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260908-daily-2026-09-08.mp3" length="5564844" type="audio/mpeg" />
+      <description>AIに仕事を頼んで、途中で止まったことがあります。
+
+エラーが出たから止まる。確認待ちになったから止まる。パソコンを閉じたから止まる。あるいは、仕事は終わっているのに、どこまで済んだのか分からず、結局最初からやり直す。最後のケースがいちばん疲れます。
+
+ここ数日は、AIの進み具合をどう見るか、触らせてよい範囲をどう切るか、本番の前にどう試すかを見てきました。今日はその次です。仕事が一度で終わらない前提で、途中の状態を次の自分へ渡せるかを考えます。
+
+再開できる仕事には、会話の記憶だけでは足りません。何を目指していたか、どこまで確認したか、残りは何か、触ってはいけないものは何か。この四つがファイルや履歴として残っていれば、担当者もモデ...</description>
+      <itunes:summary>AIに仕事を頼んで、途中で止まったことがあります。
+
+エラーが出たから止まる。確認待ちになったから止まる。パソコンを閉じたから止まる。あるいは、仕事は終わっているのに、どこまで済んだのか分からず、結局最初からやり直す。最後のケースがいちばん疲れます。
+
+ここ数日は、AIの進み具合をどう見るか、触らせてよい範囲をどう切るか、本番の前にどう試すかを見てきました。今日はその次です。仕事が一度で終わらない前提で、途中の状態を次の自分へ渡せるかを考えます。
+
+再開できる仕事には、会話の記憶だけでは足りません。何を目指していたか、どこまで確認したか、残りは何か、触ってはいけないものは何か。この四つがファイルや履歴として残っていれば、担当者もモデ...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nef58a3976a7e</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月4日版　AIに渡す材料を、毎回同じ場所に置く</title>
       <link>https://note.com/vivid_quince2775/n/n1caf635826eb</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n1caf635826eb</guid>
@@ -1411,7 +1435,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 01:52:15 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
