@@ -2,6 +2,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月9日版　AIの仕事を、採用できる成果物に変える</title>
+      <link>https://note.com/vivid_quince2775/n/n5c123c1d2e57</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n5c123c1d2e57</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260909-daily-2026-09-09.mp3" length="5867865" type="audio/mpeg" />
+      <description>AIに仕事を頼んだあと、私はつい「ちゃんと動いたか」だけを見てしまいます。
+
+返事が返ってきた。ファイルができた。画面にそれらしい文章が出た。ここで安心して次へ進むと、あとから「これは誰が確認したのか」「どの条件で作ったのか」「もう一度同じ結果になるのか」が分からなくなる。仕事として受け取るには、動いたことより、見直せる形で残っていることの方が大事です。
+
+直近は、AIに渡す範囲を小さく切り、本番前に試し、止まった仕事を再開できるようにする方法を見てきました。今日はその続きとして、作業の出口を見ます。AIが出したものを、そのまま成果と呼ばず、差分、計画、履歴、構造化データ、復元点のような「あとから検査できるもの」に変える。そうすると...</description>
+      <itunes:summary>AIに仕事を頼んだあと、私はつい「ちゃんと動いたか」だけを見てしまいます。
+
+返事が返ってきた。ファイルができた。画面にそれらしい文章が出た。ここで安心して次へ進むと、あとから「これは誰が確認したのか」「どの条件で作ったのか」「もう一度同じ結果になるのか」が分からなくなる。仕事として受け取るには、動いたことより、見直せる形で残っていることの方が大事です。
+
+直近は、AIに渡す範囲を小さく切り、本番前に試し、止まった仕事を再開できるようにする方法を見てきました。今日はその続きとして、作業の出口を見ます。AIが出したものを、そのまま成果と呼ばず、差分、計画、履歴、構造化データ、復元点のような「あとから検査できるもの」に変える。そうすると...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n5c123c1d2e57</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月8日版　止まった仕事を、明日の自分に渡す</title>
       <link>https://note.com/vivid_quince2775/n/nef58a3976a7e</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nef58a3976a7e</guid>
@@ -1435,7 +1455,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 08 Sep 2026 01:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:10:07 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
