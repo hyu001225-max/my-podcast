@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月14日版　AIの仕事をもう一度動かす前に、同じ処理を二度しない</title>
+      <link>https://note.com/vivid_quince2775/n/na51a40923b27</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/na51a40923b27</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260914-daily-2026-09-14.mp3" length="6357713" type="audio/mpeg" />
+      <description>AIの仕事が途中で止まったとき、私はすぐに「もう一度やって」と言いがちです。
+
+返事が来ない。画面が閉じた。通信が切れた。そんなときは、最初からやり直すのが一番簡単に見える。でも、すでにメールを送っていたらどうでしょう。ファイルの一部だけ直っていたら。子エージェントが調査を終えていたら。再実行は復旧ではなく、同じ処理を二度行う操作になることがあります。
+
+直近は、AIに渡す権限、覚えさせる情報、途中経過の残し方を見てきました。今日はその続きとして、失敗した仕事をどこから再開するかを考えます。七つのAIエージェントを、何回動かせるかではなく、もう一度動かしても壊れにくいかという角度から見ていきます。
+
+今日の観点　再実行の前に状態を読...</description>
+      <itunes:summary>AIの仕事が途中で止まったとき、私はすぐに「もう一度やって」と言いがちです。
+
+返事が来ない。画面が閉じた。通信が切れた。そんなときは、最初からやり直すのが一番簡単に見える。でも、すでにメールを送っていたらどうでしょう。ファイルの一部だけ直っていたら。子エージェントが調査を終えていたら。再実行は復旧ではなく、同じ処理を二度行う操作になることがあります。
+
+直近は、AIに渡す権限、覚えさせる情報、途中経過の残し方を見てきました。今日はその続きとして、失敗した仕事をどこから再開するかを考えます。七つのAIエージェントを、何回動かせるかではなく、もう一度動かしても壊れにくいかという角度から見ていきます。
+
+今日の観点　再実行の前に状態を読...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/na51a40923b27</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月13日版　AIに任せた仕事は、途中経過を成果物で残す</title>
       <link>https://note.com/vivid_quince2775/n/n91f7bf67bfcb</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n91f7bf67bfcb</guid>
@@ -1555,7 +1579,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 13 Sep 2026 03:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:44:50 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
