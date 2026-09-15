@@ -2,6 +2,34 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月15日版　AIを待ち続けない。確認する時刻を先に決める</title>
+      <link>https://note.com/vivid_quince2775/n/n7100b5e1e2f5</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n7100b5e1e2f5</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260915-daily-2026-09-15.mp3" length="5005615" type="audio/mpeg" />
+      <description>AIに仕事を頼んだあと、画面を見ながら待ってしまうことがあります。
+
+少し進んだ。まだ動いている。返事が来ない。気になって別の作業が手につかない。かといって席を離れると、いつ終わったのか、入力を待って止まったのか分からない。AIに仕事を任せたのに、人間の方がAIの待ち番になる。これはあまりうれしくありません。
+
+ここ数日は、AIに覚えさせるもの、途中経過を成果物にすること、同じ処理を二度しないことを見てきました。今日は時間の使い方に戻ります。AIを走らせることと、結果を確認することを同じ時刻にしない。いつ見に行くのか、何が起きたら通知するのかを、仕事の始めに決めておく話です。
+
+今日の観点　待つ場所を決める
+
+私が長めの仕事を頼むと...</description>
+      <itunes:summary>AIに仕事を頼んだあと、画面を見ながら待ってしまうことがあります。
+
+少し進んだ。まだ動いている。返事が来ない。気になって別の作業が手につかない。かといって席を離れると、いつ終わったのか、入力を待って止まったのか分からない。AIに仕事を任せたのに、人間の方がAIの待ち番になる。これはあまりうれしくありません。
+
+ここ数日は、AIに覚えさせるもの、途中経過を成果物にすること、同じ処理を二度しないことを見てきました。今日は時間の使い方に戻ります。AIを走らせることと、結果を確認することを同じ時刻にしない。いつ見に行くのか、何が起きたら通知するのかを、仕事の始めに決めておく話です。
+
+今日の観点　待つ場所を決める
+
+私が長めの仕事を頼むと...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n7100b5e1e2f5</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月14日版　AIの仕事をもう一度動かす前に、同じ処理を二度しない</title>
       <link>https://note.com/vivid_quince2775/n/na51a40923b27</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/na51a40923b27</guid>
@@ -1579,7 +1607,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 14 Sep 2026 03:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:10:29 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
