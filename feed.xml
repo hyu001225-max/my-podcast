@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月17日版　AIに毎回説明しない。作業場所に前提を置く</title>
+      <link>https://note.com/vivid_quince2775/n/n07864b02b2e0</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n07864b02b2e0</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260917-daily-2026-09-17.mp3" length="4710536" type="audio/mpeg" />
+      <description>AIに仕事を頼むたび、同じ説明を最初から書いていませんか。
+
+「このフォルダが対象です」「テストを先に実行してください」「公開はしないでください」。一度伝えたはずなのに、次のセッションではまた説明する。説明を省くと、今度はAIが勝手に前提を補ってしまう。私の仕事では、この二択が何度も起きていました。
+
+直近の定点観測では、同じ処理を二度動かさないこと、待つ時刻を決めること、外へ出す直前に承認を置くことを見てきました。今日はその前段。AIが仕事を始める前に、前提をどこへ置くか。会話に一度だけ書くもの、プロジェクトに残すもの、繰り返し使う手順にするものを分けます。
+
+プロフィールの話ではありません。作業場所を開いたとき、必要な情報だけ読...</description>
+      <itunes:summary>AIに仕事を頼むたび、同じ説明を最初から書いていませんか。
+
+「このフォルダが対象です」「テストを先に実行してください」「公開はしないでください」。一度伝えたはずなのに、次のセッションではまた説明する。説明を省くと、今度はAIが勝手に前提を補ってしまう。私の仕事では、この二択が何度も起きていました。
+
+直近の定点観測では、同じ処理を二度動かさないこと、待つ時刻を決めること、外へ出す直前に承認を置くことを見てきました。今日はその前段。AIが仕事を始める前に、前提をどこへ置くか。会話に一度だけ書くもの、プロジェクトに残すもの、繰り返し使う手順にするものを分けます。
+
+プロフィールの話ではありません。作業場所を開いたとき、必要な情報だけ読...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n07864b02b2e0</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月16日版　AIに任せる仕事は、承認の一回手前で止めておく</title>
       <link>https://note.com/vivid_quince2775/n/nc54941a60683</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nc54941a60683</guid>
@@ -1627,7 +1651,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:05:35 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
