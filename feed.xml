@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月18日版　AIの「完了」を証拠にする。7つのエージェントで成果物と履歴を残す</title>
+      <link>https://note.com/vivid_quince2775/n/naef22f69d115</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/naef22f69d115</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260918-daily-2026-09-18.mp3" length="5688560" type="audio/mpeg" />
+      <description>AIに仕事を頼んで「終わりました」と返ってきたあと、結局こちらが確認しているのは返事の文章だけになっていないだろうか。変更したファイルは何か。どの差分が適用されたのか。途中で確認待ちになっていないか。結果をもう一度作れるのか。ここが曖昧なままだと、AIに任せた時間を取り戻すどころか、完了報告の真偽を調べる新しい仕事が増える。
+
+この問題は、AIの性能だけでは片付かない。エージェントはコードを変え、ブラウザを操作し、外部サービスのタスクを進め、セッションを記録する。その途中と最後に、あとから読める成果物を残す仕組みが要る。直近三日は確認時刻、承認境界、前提の置き場所を見てきた。今日はさらに一歩進め、仕事が終わったあとに何を証拠として受...</description>
+      <itunes:summary>AIに仕事を頼んで「終わりました」と返ってきたあと、結局こちらが確認しているのは返事の文章だけになっていないだろうか。変更したファイルは何か。どの差分が適用されたのか。途中で確認待ちになっていないか。結果をもう一度作れるのか。ここが曖昧なままだと、AIに任せた時間を取り戻すどころか、完了報告の真偽を調べる新しい仕事が増える。
+
+この問題は、AIの性能だけでは片付かない。エージェントはコードを変え、ブラウザを操作し、外部サービスのタスクを進め、セッションを記録する。その途中と最後に、あとから読める成果物を残す仕組みが要る。直近三日は確認時刻、承認境界、前提の置き場所を見てきた。今日はさらに一歩進め、仕事が終わったあとに何を証拠として受...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/naef22f69d115</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月20日版　AIに「進んでいい」を渡す前に。7つのエージェントで承認境界を設計する</title>
       <link>https://note.com/vivid_quince2775/n/n5f96e9cf16a4</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n5f96e9cf16a4</guid>
@@ -1667,7 +1683,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 20 Sep 2026 03:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:37:37 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
