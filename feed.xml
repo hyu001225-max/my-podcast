@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月20日版　AIに「進んでいい」を渡す前に。7つのエージェントで承認境界を設計する</title>
+      <link>https://note.com/vivid_quince2775/n/n5f96e9cf16a4</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n5f96e9cf16a4</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260920-daily-2026-09-20.mp3" length="6300870" type="audio/mpeg" />
+      <description>AIに作業を任せるとき、怖いのは失敗したコマンドだけではない。下書きを保存するつもりの依頼が、そのまま公開や送信まで進むことがある。しかも画面には「完了」としか出ず、どの境界を越えたのか、誰が許可したのか、戻せるのかが後から分からない。確認作業が最後に集中し、任せた時間が監査の時間へ変わる。
+
+この問題は、AIを止めるか自由にするかの二択では片付かない。読み取り、調査、テスト、下書きは進め、外部送信や公開、削除、課金、デプロイの直前で止める。その線を技術的な制限と承認手続きに分け、無人実行では確認できなければ拒否する。直近三日は前提、証拠、分割と統合を見てきた。今日は、実行を続けてよい場所と、必ず人へ戻す場所を七つの公式資料から読む...</description>
+      <itunes:summary>AIに作業を任せるとき、怖いのは失敗したコマンドだけではない。下書きを保存するつもりの依頼が、そのまま公開や送信まで進むことがある。しかも画面には「完了」としか出ず、どの境界を越えたのか、誰が許可したのか、戻せるのかが後から分からない。確認作業が最後に集中し、任せた時間が監査の時間へ変わる。
+
+この問題は、AIを止めるか自由にするかの二択では片付かない。読み取り、調査、テスト、下書きは進め、外部送信や公開、削除、課金、デプロイの直前で止める。その線を技術的な制限と承認手続きに分け、無人実行では確認できなければ拒否する。直近三日は前提、証拠、分割と統合を見てきた。今日は、実行を続けてよい場所と、必ず人へ戻す場所を七つの公式資料から読む...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n5f96e9cf16a4</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月17日版　AIに毎回説明しない。作業場所に前提を置く</title>
       <link>https://note.com/vivid_quince2775/n/n07864b02b2e0</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n07864b02b2e0</guid>
@@ -1651,7 +1667,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 17 Sep 2026 03:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 03:10:53 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
