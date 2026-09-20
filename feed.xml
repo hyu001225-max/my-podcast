@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月19日版　大仕事を一つのAIに抱え込ませない。7つのエージェントで分割と統合を設計する</title>
+      <link>https://note.com/vivid_quince2775/n/n826e5ae2705a</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n826e5ae2705a</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260919-daily-2026-09-19.mp3" length="5859087" type="audio/mpeg" />
+      <description>調査、実装、テスト、資料化を一つのAIエージェントへ一度に渡すと、処理時間だけでなく、確認する人間の負担も膨らむ。返ってきた差分がどの調査結果を根拠にしているのか、テストがどの変更を検証したのか、途中で待機した作業がなかったかを、最後にまとめて読み解くことになる。並列化しないことの損失は、遅さだけではない。文脈が混ざり、失敗の位置が見えなくなることが問題である。
+
+一方で、エージェントを増やせば速くなるわけでもない。独立していない仕事を同時に走らせれば、同じファイルを奪い合い、古い前提で別々の修正を作り、最後に統合できない成果物が並ぶ。直近三日は承認境界、前提の置き場所、完了の証拠を見てきた。今日はその前段として、仕事をどこで切り...</description>
+      <itunes:summary>調査、実装、テスト、資料化を一つのAIエージェントへ一度に渡すと、処理時間だけでなく、確認する人間の負担も膨らむ。返ってきた差分がどの調査結果を根拠にしているのか、テストがどの変更を検証したのか、途中で待機した作業がなかったかを、最後にまとめて読み解くことになる。並列化しないことの損失は、遅さだけではない。文脈が混ざり、失敗の位置が見えなくなることが問題である。
+
+一方で、エージェントを増やせば速くなるわけでもない。独立していない仕事を同時に走らせれば、同じファイルを奪い合い、古い前提で別々の修正を作り、最後に統合できない成果物が並ぶ。直近三日は承認境界、前提の置き場所、完了の証拠を見てきた。今日はその前段として、仕事をどこで切り...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n826e5ae2705a</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月18日版　AIの「完了」を証拠にする。7つのエージェントで成果物と履歴を残す</title>
       <link>https://note.com/vivid_quince2775/n/naef22f69d115</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/naef22f69d115</guid>
@@ -1683,7 +1699,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 20 Sep 2026 08:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:37:50 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
