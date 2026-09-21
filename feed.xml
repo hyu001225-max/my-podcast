@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月21日版　同じ仕事をもう一度通すために、実行環境を固定する</title>
+      <link>https://note.com/vivid_quince2775/n/n83cedfb95bb2</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n83cedfb95bb2</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260921-daily-2026-09-21.mp3" length="6793226" type="audio/mpeg" />
+      <description>AIに昨日と同じ依頼を渡したのに、今日は結果の形が違う。原因をモデルの気分で片づけると、次に直す場所が消える。実際には、参照したコミット、インストールされた依存関係、読み込まれた指示、会話の残り方、起動した時刻といった条件が少しずつ変わっている。仕事の再現性を壊すのは、派手な失敗より、この小さな差である。
+
+直近は、完了を証拠で受け取ること、仕事を分割して統合すること、外部作用の前で承認を置くことを見てきた。今日はその三つを下支えする実行条件に目を向ける。七つのエージェントは、それぞれ環境、設定、手順、プロジェクト指示、模擬実行、定期実行、セッションを固定する仕組みを持つ。読者の仕事を変えるポイントは、賢い返答を待つことではなく、同...</description>
+      <itunes:summary>AIに昨日と同じ依頼を渡したのに、今日は結果の形が違う。原因をモデルの気分で片づけると、次に直す場所が消える。実際には、参照したコミット、インストールされた依存関係、読み込まれた指示、会話の残り方、起動した時刻といった条件が少しずつ変わっている。仕事の再現性を壊すのは、派手な失敗より、この小さな差である。
+
+直近は、完了を証拠で受け取ること、仕事を分割して統合すること、外部作用の前で承認を置くことを見てきた。今日はその三つを下支えする実行条件に目を向ける。七つのエージェントは、それぞれ環境、設定、手順、プロジェクト指示、模擬実行、定期実行、セッションを固定する仕組みを持つ。読者の仕事を変えるポイントは、賢い返答を待つことではなく、同...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n83cedfb95bb2</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月19日版　大仕事を一つのAIに抱え込ませない。7つのエージェントで分割と統合を設計する</title>
       <link>https://note.com/vivid_quince2775/n/n826e5ae2705a</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n826e5ae2705a</guid>
@@ -1699,7 +1715,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 20 Sep 2026 08:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:04:08 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
