@@ -5,14 +5,15 @@ AIエージェントや業務OS化の動向を、実務目線でやわらかく�
 ## Listen
 
 - RSS feed: [feed.xml](https://hyu001225-max.github.io/my-podcast/feed.xml)
-- Latest episode: [2026-09-21 AIエージェント日次速報](https://hyu001225-max.github.io/my-podcast/episodes/20260921-daily-2026-09-21.mp3)
-- note: [とあるITエンジニア | AIと仕事の仕組み化](https://note.com/vivid_quince2775/n/n83cedfb95bb2)
+- Latest episode: [2026-09-22 AIエージェント日次速報](https://hyu001225-max.github.io/my-podcast/episodes/20260922-daily-2026-09-22.mp3)
+- note: [とあるITエンジニア | AIと仕事の仕組み化](https://note.com/vivid_quince2775/n/nb20249c3ab65)
 - Spotify: [AIと仕事の仕組み化ラジオ](https://open.spotify.com/show/033tGNsJGpqMv01p5Ue81H)
 - Amazon Music: [AIと仕事の仕組み化ラジオ](https://music.amazon.co.jp/podcasts/ab059613-dbb0-4c14-bf30-23b693971be9/ai%E3%81%A8%E4%BB%95%E4%BA%8B%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E5%8C%96%E3%83%A9%E3%82%B8%E3%82%AA)
 - Apple Podcasts: [AIと仕事の仕組み化ラジオ](https://podcasts.apple.com/us/podcast/ai%E3%81%A8%E4%BB%95%E4%BA%8B%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E5%8C%96%E3%83%A9%E3%82%B8%E3%82%AA/id1896888312)
 
 ## Episodes
 
+- 2026-09-22: [note記事](https://note.com/vivid_quince2775/n/nb20249c3ab65) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260922-daily-2026-09-22.mp3)
 - 2026-09-21: [note記事](https://note.com/vivid_quince2775/n/n83cedfb95bb2) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260921-daily-2026-09-21.mp3)
 - 2026-09-19: [note記事](https://note.com/vivid_quince2775/n/n826e5ae2705a) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260919-daily-2026-09-19.mp3)
 - 2026-09-18: [note記事](https://note.com/vivid_quince2775/n/naef22f69d115) / [podcast音声](https://hyu001225-max.github.io/my-podcast/episodes/20260918-daily-2026-09-18.mp3)

@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月22日版　長い仕事を途中で忘れさせない。7つのエージェントで圧縮と再開を設計する</title>
+      <link>https://note.com/vivid_quince2775/n/nb20249c3ab65</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nb20249c3ab65</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260922-daily-2026-09-22.mp3" length="6101086" type="audio/mpeg" />
+      <description>AIに半日がかりの仕事を渡し、少し席を外して戻る。すると、さっきまで話していた前提が抜け、同じ資料をもう一度読ませることになる。ひどい場合は、完了した調査を未着手としてやり直し、確認待ちの操作を勝手に進める。失われるのは会話の数分ではない。判断の根拠、途中成果物、次に止まるべき場所まで一緒に消える。
+
+長いセッションでは、コンテキストウィンドウに入る情報が有限である。古い発言を圧縮して会話を続ける機能は便利だが、要約は台帳ではない。重要な決定が短い一文に潰れ、作業中のファイル名が抜ければ、エージェントは自信ありげに別の道へ進む。直近三日は分割と統合、承認境界、再実行条件を見てきた。今日は、その仕事を途中で離れても戻せるように、何を会...</description>
+      <itunes:summary>AIに半日がかりの仕事を渡し、少し席を外して戻る。すると、さっきまで話していた前提が抜け、同じ資料をもう一度読ませることになる。ひどい場合は、完了した調査を未着手としてやり直し、確認待ちの操作を勝手に進める。失われるのは会話の数分ではない。判断の根拠、途中成果物、次に止まるべき場所まで一緒に消える。
+
+長いセッションでは、コンテキストウィンドウに入る情報が有限である。古い発言を圧縮して会話を続ける機能は便利だが、要約は台帳ではない。重要な決定が短い一文に潰れ、作業中のファイル名が抜ければ、エージェントは自信ありげに別の道へ進む。直近三日は分割と統合、承認境界、再実行条件を見てきた。今日は、その仕事を途中で離れても戻せるように、何を会...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nb20249c3ab65</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月21日版　同じ仕事をもう一度通すために、実行環境を固定する</title>
       <link>https://note.com/vivid_quince2775/n/n83cedfb95bb2</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n83cedfb95bb2</guid>
@@ -1715,7 +1731,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 21 Sep 2026 03:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:09:04 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
