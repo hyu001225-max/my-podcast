@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月25日版　許可ボタンの前に、仕事の境界を決める</title>
+      <link>https://note.com/vivid_quince2775/n/n83a34f43ba86</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n83a34f43ba86</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260925-daily-2026-09-25.mp3" length="6018748" type="audio/mpeg" />
+      <description>AI に「このフォルダだけ直して」と指示したにもかかわらず、作業ディレクトリの外まで読み込まれたり、連携済みの外部アプリケーションでデータが書き換えられたりすることがある。画面に表示される確認ダイアログに応答したかどうかばかりに注目していても、実際に何が許可されていたのかは把握できない。エージェントの作用範囲は、ファイル、コマンド、接続先、ネットワークといった独立した複数の設定によって分かれている。
+
+直近の 3 日間では、長時間の仕事の再開、失敗した後の復旧、そして完了報告の証拠を確認してきた。今回はその前段に戻り、仕事を始める前に AI がどこまでアクセスしてよいのかを 7...</description>
+      <itunes:summary>AI に「このフォルダだけ直して」と指示したにもかかわらず、作業ディレクトリの外まで読み込まれたり、連携済みの外部アプリケーションでデータが書き換えられたりすることがある。画面に表示される確認ダイアログに応答したかどうかばかりに注目していても、実際に何が許可されていたのかは把握できない。エージェントの作用範囲は、ファイル、コマンド、接続先、ネットワークといった独立した複数の設定によって分かれている。
+
+直近の 3 日間では、長時間の仕事の再開、失敗した後の復旧、そして完了報告の証拠を確認してきた。今回はその前段に戻り、仕事を始める前に AI がどこまでアクセスしてよいのかを 7...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n83a34f43ba86</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月24日版　AIの「完了」を信じる前に、証拠を読む</title>
       <link>https://note.com/vivid_quince2775/n/n0c928c46efd5</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0c928c46efd5</guid>
@@ -1775,7 +1791,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 24 Sep 2026 03:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 03:08:25 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
