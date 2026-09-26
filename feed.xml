@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月26日版　仕事を渡すとき、会話より先に成果物を決める</title>
+      <link>https://note.com/vivid_quince2775/n/n0960053f3180</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0960053f3180</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260926-daily-2026-09-26.mp3" length="5448234" type="audio/mpeg" />
+      <description>AI...</description>
+      <itunes:summary>AI...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n0960053f3180</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月25日版　許可ボタンの前に、仕事の境界を決める</title>
       <link>https://note.com/vivid_quince2775/n/n83a34f43ba86</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n83a34f43ba86</guid>
@@ -1791,7 +1803,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 25 Sep 2026 03:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 03:03:56 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
