@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月28日版　完了報告を、確かめられる証拠に変える</title>
+      <link>https://note.com/vivid_quince2775/n/nd35808619481</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd35808619481</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260928-daily-2026-09-28.mp3" length="6036302" type="audio/mpeg" />
+      <description>AI から「完了しました」と返ってきたのに、肝心のファイルが見当たらない。検査を走らせたと主張するものの、実行ログも検証した対象範囲も残っていない。会話の結論だけを鵜呑みにして引き継ぐと、次の担当者は同じ作業を一からやり直すか、未確認の成果物を信じて危険なまま先へ進む羽目になる。長いチャットログを丸ごと保存したところで、本当に必要な証拠はログの山に埋もれてしまう。課題は要約を短くすることではなく、事実、推論、未確認の事項を明確に切り分けて残す仕組みにある。
+
+直近の 3...</description>
+      <itunes:summary>AI から「完了しました」と返ってきたのに、肝心のファイルが見当たらない。検査を走らせたと主張するものの、実行ログも検証した対象範囲も残っていない。会話の結論だけを鵜呑みにして引き継ぐと、次の担当者は同じ作業を一からやり直すか、未確認の成果物を信じて危険なまま先へ進む羽目になる。長いチャットログを丸ごと保存したところで、本当に必要な証拠はログの山に埋もれてしまう。課題は要約を短くすることではなく、事実、推論、未確認の事項を明確に切り分けて残す仕組みにある。
+
+直近の 3...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd35808619481</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月27日版　一度の成功を、次の作業で使える技能に変える</title>
       <link>https://note.com/vivid_quince2775/n/n3eeb34b05313</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n3eeb34b05313</guid>
@@ -1819,7 +1835,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 27 Sep 2026 03:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 03:13:33 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
