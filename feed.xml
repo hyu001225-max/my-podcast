@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月29日版　長い仕事を小さく見届ける</title>
+      <link>https://note.com/vivid_quince2775/n/ne55d46ba45c8</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ne55d46ba45c8</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260929-daily-2026-09-29.mp3" length="5618343" type="audio/mpeg" />
+      <description>エージェントに調査や実装をまとめて依頼した際、一番の課題は待ち時間の長さではない。作業を終えて手元に戻ってきた成果物が、どのような判断や前提に基づいて作られたのかが追えない点にある。途中で前提条件の取り違えが発生しても、完了時まで誰も気づけなければ、修正の手戻りや影響範囲は際限なく広がる。作業を四六時中監視するのではなく、どの段階で計画や変更内容を確かめ、どの時点で修正を指示するのかをあらかじめ決めておく必要がある。
+
+直近では、実行失敗からの復旧手順や結果の証拠保全、担当の引き継ぎ方法を整理してきた。今回はさらに手前にある、作業が進行している最中に人間が介入できる節目に着目する。取り上げる7つのツールは、計画の承認や作業後の自動検...</description>
+      <itunes:summary>エージェントに調査や実装をまとめて依頼した際、一番の課題は待ち時間の長さではない。作業を終えて手元に戻ってきた成果物が、どのような判断や前提に基づいて作られたのかが追えない点にある。途中で前提条件の取り違えが発生しても、完了時まで誰も気づけなければ、修正の手戻りや影響範囲は際限なく広がる。作業を四六時中監視するのではなく、どの段階で計画や変更内容を確かめ、どの時点で修正を指示するのかをあらかじめ決めておく必要がある。
+
+直近では、実行失敗からの復旧手順や結果の証拠保全、担当の引き継ぎ方法を整理してきた。今回はさらに手前にある、作業が進行している最中に人間が介入できる節目に着目する。取り上げる7つのツールは、計画の承認や作業後の自動検...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/ne55d46ba45c8</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月28日版　完了報告を、確かめられる証拠に変える</title>
       <link>https://note.com/vivid_quince2775/n/nd35808619481</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd35808619481</guid>
@@ -1835,7 +1851,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 28 Sep 2026 03:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 01:13:35 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
