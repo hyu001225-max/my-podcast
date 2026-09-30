@@ -2,6 +2,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年9月30日版　AIの作業場所を先に決める</title>
+      <link>https://note.com/vivid_quince2775/n/nd5b196c7beb2</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd5b196c7beb2</guid>
+      <pubDate>Wed, 30 Sep 2026 03:06:08 +0000</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20260930-daily-2026-09-30.mp3" length="6500655" type="audio/mpeg" />
+      <description>AIに社内リポジトリや議事録を渡して調査や修正を任せるとき、プロンプトに「この範囲だけ」と書き添えても作業場所は縛れない。実行環境からホームディレクトリや外部ネットワークへ到達できる状態であれば、誤読したファイルや外部からの悪意ある入力を起点に、想定外のデータへ接触する経路が残る。漏洩した通信は、後から実行ログを調べても取り消せない。
+
+本連載では直近、手順の再利用や完了の証拠、作業途中の確認点を取り上げてきた。今回はその前段として、仕事を渡す前に「どこで実行し、何を読み、何を書き、どこへ通信できるか」を定義する。7つのツールの安全機能を単純に並べるのではなく、データが通過する境界を日常の作業手順へどう組み込むかを整理する。
+
+今日...</description>
+      <itunes:summary>AIに社内リポジトリや議事録を渡して調査や修正を任せるとき、プロンプトに「この範囲だけ」と書き添えても作業場所は縛れない。実行環境からホームディレクトリや外部ネットワークへ到達できる状態であれば、誤読したファイルや外部からの悪意ある入力を起点に、想定外のデータへ接触する経路が残る。漏洩した通信は、後から実行ログを調べても取り消せない。
+
+本連載では直近、手順の再利用や完了の証拠、作業途中の確認点を取り上げてきた。今回はその前段として、仕事を渡す前に「どこで実行し、何を読み、何を書き、どこへ通信できるか」を定義する。7つのツールの安全機能を単純に並べるのではなく、データが通過する境界を日常の作業手順へどう組み込むかを整理する。
+
+今日...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd5b196c7beb2</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月29日版　長い仕事を小さく見届ける</title>
       <link>https://note.com/vivid_quince2775/n/ne55d46ba45c8</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ne55d46ba45c8</guid>
@@ -1851,7 +1871,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 29 Sep 2026 01:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:06:08 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
