@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月1日版　失敗から戻る手順を先に決める</title>
+      <link>https://note.com/vivid_quince2775/n/n723c66be5cae</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n723c66be5cae</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261001-daily-2026-10-01.mp3" length="5565262" type="audio/mpeg" />
+      <description>エージェントが修正を誤ると、捨てるべきなのは一行の差分だけとは限らない。会話を戻せば必要な判断まで消え、文書を古い版に戻せば後から加えた手直しも失われる。作業環境を消したあとで未追跡ファイルに気づけば、Gitの履歴だけでは拾えない。復旧機能の名前だけ覚えていても、戻す対象を取り違えれば被害を広げる。
+
+ここ数日は、作業の完了を何で確かめるか、作業場所をどう区切るかを見てきた。今回はその次に、失敗した変更からどう戻るかを扱う。7つのツールは、差分の一部を戻すもの、会話とコードを別々に巻き戻すもの、別の作業環境を保存するものなど、復旧の単位が違う。実行前に保存点を作り、実行後に差分を見て、戻した後に検査する。この三段を仕事の手順に加えた...</description>
+      <itunes:summary>エージェントが修正を誤ると、捨てるべきなのは一行の差分だけとは限らない。会話を戻せば必要な判断まで消え、文書を古い版に戻せば後から加えた手直しも失われる。作業環境を消したあとで未追跡ファイルに気づけば、Gitの履歴だけでは拾えない。復旧機能の名前だけ覚えていても、戻す対象を取り違えれば被害を広げる。
+
+ここ数日は、作業の完了を何で確かめるか、作業場所をどう区切るかを見てきた。今回はその次に、失敗した変更からどう戻るかを扱う。7つのツールは、差分の一部を戻すもの、会話とコードを別々に巻き戻すもの、別の作業環境を保存するものなど、復旧の単位が違う。実行前に保存点を作り、実行後に差分を見て、戻した後に検査する。この三段を仕事の手順に加えた...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n723c66be5cae</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年9月30日版　AIの作業場所を先に決める</title>
       <link>https://note.com/vivid_quince2775/n/nd5b196c7beb2</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd5b196c7beb2</guid>
@@ -1871,7 +1887,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:01:02 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
