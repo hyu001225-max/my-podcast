@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月3日版　止まった仕事を正しく再開する</title>
+      <link>https://note.com/vivid_quince2775/n/nb23ecdd44b90</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nb23ecdd44b90</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261003-daily-2026-10-03.mp3" length="5922617" type="audio/mpeg" />
+      <description>エージェントの画面に「停止しました」と表示された際、作業が正常に完了したと判断するのは早計である。裏でバックグラウンド処理が継続していたり、利用者の承認や追加入力を待機していたりする場合がある。状態を確認せずに再実行ボタンを押すと、同一の処理を二重に走らせる原因となる。反対に、単なる質問待ちをエラーと誤認してタスクを破棄すれば、それまでの調査や作業結果を失う。
+
+直近の記事では作業場所の分離、失敗からの復旧、完了記録の残し方を扱ってきた。今回はその間にある「止まっている最中の状態」を扱う。実行中、入力待ち、完了、エラーは、画面上ではいずれも同じ「停止」に見える場合がある。しかし、次に取るべき対応はそれぞれ異なる。本稿では 7...</description>
+      <itunes:summary>エージェントの画面に「停止しました」と表示された際、作業が正常に完了したと判断するのは早計である。裏でバックグラウンド処理が継続していたり、利用者の承認や追加入力を待機していたりする場合がある。状態を確認せずに再実行ボタンを押すと、同一の処理を二重に走らせる原因となる。反対に、単なる質問待ちをエラーと誤認してタスクを破棄すれば、それまでの調査や作業結果を失う。
+
+直近の記事では作業場所の分離、失敗からの復旧、完了記録の残し方を扱ってきた。今回はその間にある「止まっている最中の状態」を扱う。実行中、入力待ち、完了、エラーは、画面上ではいずれも同じ「停止」に見える場合がある。しかし、次に取るべき対応はそれぞれ異なる。本稿では 7...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nb23ecdd44b90</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月2日版　完了報告の根拠をたどる</title>
       <link>https://note.com/vivid_quince2775/n/n4a73a8384feb</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n4a73a8384feb</guid>
@@ -1903,7 +1919,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:12:35 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
