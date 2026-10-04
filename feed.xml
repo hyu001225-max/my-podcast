@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月4日版　読ませる情報を選び直す</title>
+      <link>https://note.com/vivid_quince2775/n/n9d134952222b</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n9d134952222b</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261004-daily-2026-10-04.mp3" length="6510686" type="audio/mpeg" />
+      <description>同じ注意書きをプロンプトへ毎回貼り付ける運用を続けると、本来の依頼事項が長文の末尾に埋もれてしまう。一方で、過去の作業ログや手持ちの資料をすべて流し込めば、当面の作業と無関係な記述までモデルの注意を奪う。コンテキストウィンドウは無制限の倉庫ではない。入力情報が膨らむほど、モデルが肝心の制約や指示を正確に拾い上げる負担も増していく。
+
+前日まではエージェントの停止判定や再開、作業ログの引き継ぎを取り上げてきた。今回はその前段階として、仕事を依頼する際に何を常時読み込ませ、何を作業時だけ参照させるかという情報の切り分けを考える。主要な AI...</description>
+      <itunes:summary>同じ注意書きをプロンプトへ毎回貼り付ける運用を続けると、本来の依頼事項が長文の末尾に埋もれてしまう。一方で、過去の作業ログや手持ちの資料をすべて流し込めば、当面の作業と無関係な記述までモデルの注意を奪う。コンテキストウィンドウは無制限の倉庫ではない。入力情報が膨らむほど、モデルが肝心の制約や指示を正確に拾い上げる負担も増していく。
+
+前日まではエージェントの停止判定や再開、作業ログの引き継ぎを取り上げてきた。今回はその前段階として、仕事を依頼する際に何を常時読み込ませ、何を作業時だけ参照させるかという情報の切り分けを考える。主要な AI...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n9d134952222b</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月3日版　止まった仕事を正しく再開する</title>
       <link>https://note.com/vivid_quince2775/n/nb23ecdd44b90</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nb23ecdd44b90</guid>
@@ -1919,7 +1935,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:00:50 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
