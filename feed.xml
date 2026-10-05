@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月5日版　任せる前に権限を分ける</title>
+      <link>https://note.com/vivid_quince2775/n/nbf4efd71e28a</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nbf4efd71e28a</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261005-daily-2026-10-05.mp3" length="4799979" type="audio/mpeg" />
+      <description>作業を一つ依頼しただけにもかかわらず、エージェントが想定外のフォルダーを読み込み、外部と通信し、ファイルの書き換えまで進めた場合、Git で差分を戻すだけでは収拾がつかない。画面に表示された承認ボタンを押した記録が残っていても、どの対象にどのような権限を渡したかが曖昧であれば、問題が起きた原因を後から追跡することは困難である。画面に現れる「許可」の表示は、それ単体で安全を保証する仕組みではない。
+
+過去 3...</description>
+      <itunes:summary>作業を一つ依頼しただけにもかかわらず、エージェントが想定外のフォルダーを読み込み、外部と通信し、ファイルの書き換えまで進めた場合、Git で差分を戻すだけでは収拾がつかない。画面に表示された承認ボタンを押した記録が残っていても、どの対象にどのような権限を渡したかが曖昧であれば、問題が起きた原因を後から追跡することは困難である。画面に現れる「許可」の表示は、それ単体で安全を保証する仕組みではない。
+
+過去 3...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nbf4efd71e28a</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月4日版　読ませる情報を選び直す</title>
       <link>https://note.com/vivid_quince2775/n/n9d134952222b</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n9d134952222b</guid>
@@ -1935,7 +1951,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 04 Oct 2026 03:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 03:01:42 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
