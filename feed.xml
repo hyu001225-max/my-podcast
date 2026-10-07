@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月7日版　仕事を分けて並列化する</title>
+      <link>https://note.com/vivid_quince2775/n/n0bf8e7bf3bfb</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0bf8e7bf3bfb</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261007-daily-2026-10-07.mp3" length="4734777" type="audio/mpeg" />
+      <description>一つの依頼を複数のエージェントへ丸投げすると、処理が速くなるどころか同じファイルを上書きし合い、最後に人間が差分をほどく事態に陥る。調査や実装、検査といった工程を単に頭数で割っても、前の作業結果を待たなければ進まない工程まで同時に動かせば、手戻りが増えるだけだ。短縮できる工程は、互いの作業場所や成果物が最初から独立している部分に限られる。
+
+直近の記事では、エージェントに読ませる情報や操作権限、完了を判断する証拠の残し方を扱ってきた。今回は作業の配り方を取り上げる。取り上げる 7 つのツールは、別セッションの起動や共有タスク表、Git worktree...</description>
+      <itunes:summary>一つの依頼を複数のエージェントへ丸投げすると、処理が速くなるどころか同じファイルを上書きし合い、最後に人間が差分をほどく事態に陥る。調査や実装、検査といった工程を単に頭数で割っても、前の作業結果を待たなければ進まない工程まで同時に動かせば、手戻りが増えるだけだ。短縮できる工程は、互いの作業場所や成果物が最初から独立している部分に限られる。
+
+直近の記事では、エージェントに読ませる情報や操作権限、完了を判断する証拠の残し方を扱ってきた。今回は作業の配り方を取り上げる。取り上げる 7 つのツールは、別セッションの起動や共有タスク表、Git worktree...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n0bf8e7bf3bfb</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月6日版　「完了しました」を証拠に変える</title>
       <link>https://note.com/vivid_quince2775/n/n04cbffa225f6</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n04cbffa225f6</guid>
@@ -1967,7 +1983,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 06 Oct 2026 03:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:04:13 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
