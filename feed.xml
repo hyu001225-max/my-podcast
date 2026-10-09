@@ -2,6 +2,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月9日版　止まった作業をどこから再開するか</title>
+      <link>https://note.com/vivid_quince2775/n/n9dae67e93ded</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n9dae67e93ded</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261009-daily-2026-10-09.mp3" length="7069079" type="audio/mpeg" />
+      <description>エージェントの返答が途切れたあと、同じ依頼をもう一度送ると、すでに終わった編集や外部操作まで繰り返す危険がある。会話の続きを再生することと、作業の状態が正しいことは別問題だ。要約には抜けがあり、保存された会話はファイルの現在の差分やタスクの実行状態まで保証しない。
+
+直近3日は、二重実行、時間条件、前提情報の置き場所を見た。今日は中断後の復帰に絞る。7つのエージェント製品は、会話を戻す方法だけでなく、何を作業場所に結び付け、何を再確認すべきかもそれぞれ違う。再開ボタンを押す前に、止まった地点と副作用の有無を記録する運用へ変えたい。
+
+Codex　前の作業記録を呼び戻す
+
+Codex CLIは会話の記録をローカルに保存し、codex...</description>
+      <itunes:summary>エージェントの返答が途切れたあと、同じ依頼をもう一度送ると、すでに終わった編集や外部操作まで繰り返す危険がある。会話の続きを再生することと、作業の状態が正しいことは別問題だ。要約には抜けがあり、保存された会話はファイルの現在の差分やタスクの実行状態まで保証しない。
+
+直近3日は、二重実行、時間条件、前提情報の置き場所を見た。今日は中断後の復帰に絞る。7つのエージェント製品は、会話を戻す方法だけでなく、何を作業場所に結び付け、何を再確認すべきかもそれぞれ違う。再開ボタンを押す前に、止まった地点と副作用の有無を記録する運用へ変えたい。
+
+Codex　前の作業記録を呼び戻す
+
+Codex CLIは会話の記録をローカルに保存し、codex...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n9dae67e93ded</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月8日版　指示と記憶の置き場所</title>
       <link>https://note.com/vivid_quince2775/n/n67b9472084c8</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n67b9472084c8</guid>
@@ -2007,7 +2031,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 08 Oct 2026 03:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:01:26 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
