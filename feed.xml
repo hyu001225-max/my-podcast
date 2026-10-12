@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月12日版　AIが聞き返してくる場面を先に決める</title>
+      <link>https://note.com/vivid_quince2775/n/na254e4cf899d</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/na254e4cf899d</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261012-daily-2026-10-12.mp3" length="5668080" type="audio/mpeg" />
+      <description>「この機能を作って」と一行だけ渡したエージェントが、三十分後に見当違いの差分を返してきた。原因は能力不足ではない。聞かれなかった点をモデルが黙って埋めたことにある。埋められた仮定は会話履歴に残り、以降のすべての判断がその仮定を前提に積み上がる。あとから直すには、仮定を探し当てる手間と、積み上がった差分を戻す手間の両方がかかる。
+
+逆の失敗もある。リポジトリを開けば分かることまで聞き返すエージェントは、答える側の作業を細切れにする。人間が戻るまで作業は止まり、戻った人間は質問を読み直すところから始めることになる。直近3日は、中断後の再開、利用量の計器、読ませた文章の信頼境界を見た。今日はその手前にあたる、仕事の前後でエージェントが人に...</description>
+      <itunes:summary>「この機能を作って」と一行だけ渡したエージェントが、三十分後に見当違いの差分を返してきた。原因は能力不足ではない。聞かれなかった点をモデルが黙って埋めたことにある。埋められた仮定は会話履歴に残り、以降のすべての判断がその仮定を前提に積み上がる。あとから直すには、仮定を探し当てる手間と、積み上がった差分を戻す手間の両方がかかる。
+
+逆の失敗もある。リポジトリを開けば分かることまで聞き返すエージェントは、答える側の作業を細切れにする。人間が戻るまで作業は止まり、戻った人間は質問を読み直すところから始めることになる。直近3日は、中断後の再開、利用量の計器、読ませた文章の信頼境界を見た。今日はその手前にあたる、仕事の前後でエージェントが人に...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/na254e4cf899d</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月11日版　読ませた文章に、命令させない</title>
       <link>https://note.com/vivid_quince2775/n/n90ff86f4e81c</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n90ff86f4e81c</guid>
@@ -2063,7 +2079,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 11 Oct 2026 03:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:00:43 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
