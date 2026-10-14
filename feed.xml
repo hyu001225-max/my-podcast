@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月14日版　拡張を入れる前に、中身を読む</title>
+      <link>https://note.com/vivid_quince2775/n/nd68850eb6041</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd68850eb6041</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261014-daily-2026-10-14.mp3" length="6138284" type="audio/mpeg" />
+      <description>便利そうなプラグインを一つ入れた翌日から、エージェントの返答が重くなり、依頼のたびに余計な確認が挟まるようになる。原因が拡張だと気づくまでに、設定を何度も疑う羽目になりやすい。拡張は機能を足し、同時に先頭の文面も増やす。ツールの説明文や手順書は、毎回モデルへ送る先頭の文面に混ざる。その分だけコンテキストの枠は削られ、先頭が変わればキャッシュも読み取れなくなる。
+
+損は速度と費用に収まらない。拡張の中には、モデルの判断を経ずにシェルコマンドを走らせるフックや、背景で起動するサーバーが入っていることがある。権限の確認画面が覆っているのはエージェントの操作であって、拡張が自分で走らせるコードではない。入れた瞬間に、手元の端末へ他人のコード...</description>
+      <itunes:summary>便利そうなプラグインを一つ入れた翌日から、エージェントの返答が重くなり、依頼のたびに余計な確認が挟まるようになる。原因が拡張だと気づくまでに、設定を何度も疑う羽目になりやすい。拡張は機能を足し、同時に先頭の文面も増やす。ツールの説明文や手順書は、毎回モデルへ送る先頭の文面に混ざる。その分だけコンテキストの枠は削られ、先頭が変わればキャッシュも読み取れなくなる。
+
+損は速度と費用に収まらない。拡張の中には、モデルの判断を経ずにシェルコマンドを走らせるフックや、背景で起動するサーバーが入っていることがある。権限の確認画面が覆っているのはエージェントの操作であって、拡張が自分で走らせるコードではない。入れた瞬間に、手元の端末へ他人のコード...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd68850eb6041</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月13日版　更新が来る日を、先に自分で決める</title>
       <link>https://note.com/vivid_quince2775/n/nb2e9a7db236d</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nb2e9a7db236d</guid>
@@ -2099,7 +2115,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:00:52 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
