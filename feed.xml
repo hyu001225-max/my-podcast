@@ -2,6 +2,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月15日版　使うモデルが止まる日を、先に決める</title>
+      <link>https://note.com/vivid_quince2775/n/n930c254f6c81</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n930c254f6c81</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261015-daily-2026-10-15.mp3" length="5429007" type="audio/mpeg" />
+      <description>朝、定期実行の依頼が一本残らず失敗している。ログを開くと、指定していたモデルが利用できないと返している。昨日まで通っていた設定が、一晩で宛先を失った形だ。直すだけなら一行で済む。ただ、同じモデル名を設定ファイル、スクリプト、カスタムエージェント、予約タスクに散らして書いていると、数え漏れた一か所が翌朝の失敗になる。
+
+損は停止だけに収まらない。モデルを替えると、先頭の文面が同じでもキャッシュは新しいモデルの分として一から作り直しになり、最初の数回は費用と待ち時間が増える。同じ指示でも出力の癖が変わるので、いつもの検査を通っていた成果物の体裁が崩れることもある。モデル名は設定の一行に見えて、実際には仕事全体が寄りかかる依存先だ。
+
+直...</description>
+      <itunes:summary>朝、定期実行の依頼が一本残らず失敗している。ログを開くと、指定していたモデルが利用できないと返している。昨日まで通っていた設定が、一晩で宛先を失った形だ。直すだけなら一行で済む。ただ、同じモデル名を設定ファイル、スクリプト、カスタムエージェント、予約タスクに散らして書いていると、数え漏れた一か所が翌朝の失敗になる。
+
+損は停止だけに収まらない。モデルを替えると、先頭の文面が同じでもキャッシュは新しいモデルの分として一から作り直しになり、最初の数回は費用と待ち時間が増える。同じ指示でも出力の癖が変わるので、いつもの検査を通っていた成果物の体裁が崩れることもある。モデル名は設定の一行に見えて、実際には仕事全体が寄りかかる依存先だ。
+
+直...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n930c254f6c81</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月14日版　拡張を入れる前に、中身を読む</title>
       <link>https://note.com/vivid_quince2775/n/nd68850eb6041</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd68850eb6041</guid>
@@ -2115,7 +2135,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 14 Oct 2026 03:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:01:18 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
