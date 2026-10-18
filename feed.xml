@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月18日版　席を外す前に、仕事が動く場所を確かめる</title>
+      <link>https://note.com/vivid_quince2775/n/n084767460eb9</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n084767460eb9</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261018-daily-2026-10-18.mp3" length="6773582" type="audio/mpeg" />
+      <description>夕方に長いリファクタリングを任せ、ノートPCの蓋を閉じて帰宅する。翌朝ターミナルを開くと、画面は昨夜のまま止まっている。シェルは途中のコマンドで待ち続け、エージェントの会話の状態も、動いていた子プロセスも、蓋を閉じた時点で止まっていた。この損は、モデルの賢さとは関係がない。仕事を動かしているプロセスがどの機械の上にあるかで決まる。プロセスが眠れば、その中のコンテキストも、実行中の検証も、一緒に眠る。
+
+手元のスマホからエージェントを操作できる機能が増え、離れていても仕事が進んでいるように見える。しかし、画面を遠隔にすることと、実行を遠隔にすることは別の話だ。画面だけが遠隔なら、手元の機械が起きている間しか仕事は進まない。逆に、実行が...</description>
+      <itunes:summary>夕方に長いリファクタリングを任せ、ノートPCの蓋を閉じて帰宅する。翌朝ターミナルを開くと、画面は昨夜のまま止まっている。シェルは途中のコマンドで待ち続け、エージェントの会話の状態も、動いていた子プロセスも、蓋を閉じた時点で止まっていた。この損は、モデルの賢さとは関係がない。仕事を動かしているプロセスがどの機械の上にあるかで決まる。プロセスが眠れば、その中のコンテキストも、実行中の検証も、一緒に眠る。
+
+手元のスマホからエージェントを操作できる機能が増え、離れていても仕事が進んでいるように見える。しかし、画面を遠隔にすることと、実行を遠隔にすることは別の話だ。画面だけが遠隔なら、手元の機械が起きている間しか仕事は進まない。逆に、実行が...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n084767460eb9</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月17日版　別のツールでも読める形で、手順を持つ</title>
       <link>https://note.com/vivid_quince2775/n/n4787aeb6e7f6</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n4787aeb6e7f6</guid>
@@ -2171,7 +2187,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 17 Oct 2026 03:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:01:21 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
