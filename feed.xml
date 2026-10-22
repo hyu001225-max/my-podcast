@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月22日版　会話が圧縮される前に、残したい決定を外に書き出す</title>
+      <link>https://note.com/vivid_quince2775/n/ndd6ce2a3149d</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ndd6ce2a3149d</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261022-daily-2026-10-22.mp3" length="5004779" type="audio/mpeg" />
+      <description>朝から続けている修正の会話で、昼過ぎに突然、エージェントが三時間前に決めたはずの方針を忘れる。「この関数は触らない」と伝えたのに、その関数に手が入る。テストのコマンドも、最初に教えたものと違う。原因はたいてい、モデルが急に鈍ったことではない。会話がコンテキストウィンドウの上限に近づき、古いやりとりが要約に置き換えられた。その要約から、あなたの禁止事項が落ちている。
+
+損は、やり直しの手間だけでは終わらない。要約は人間の目に触れない場所で作られるので、何が落ちたのかを誰も見ていない。しかも圧縮の直後は、会話の先頭の部分が要約に変わり、プロンプトキャッシュの効く範囲も縮む。以後の応答は、前より遅く、前より割高になる。決定を会話の中にだけ...</description>
+      <itunes:summary>朝から続けている修正の会話で、昼過ぎに突然、エージェントが三時間前に決めたはずの方針を忘れる。「この関数は触らない」と伝えたのに、その関数に手が入る。テストのコマンドも、最初に教えたものと違う。原因はたいてい、モデルが急に鈍ったことではない。会話がコンテキストウィンドウの上限に近づき、古いやりとりが要約に置き換えられた。その要約から、あなたの禁止事項が落ちている。
+
+損は、やり直しの手間だけでは終わらない。要約は人間の目に触れない場所で作られるので、何が落ちたのかを誰も見ていない。しかも圧縮の直後は、会話の先頭の部分が要約に変わり、プロンプトキャッシュの効く範囲も縮む。以後の応答は、前より遅く、前より割高になる。決定を会話の中にだけ...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/ndd6ce2a3149d</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月21日版　スクリーンショットを渡す前に、見せる範囲を決める</title>
       <link>https://note.com/vivid_quince2775/n/n39ad06fb94a7</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n39ad06fb94a7</guid>
@@ -2235,7 +2251,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 21 Oct 2026 03:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:00:57 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
