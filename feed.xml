@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月24日版　走っている最中の追加指示を、割り込みか順番待ちかで分ける</title>
+      <link>https://note.com/vivid_quince2775/n/nf2c6b8708621</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nf2c6b8708621</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261024-daily-2026-10-24.mp3" length="4262483" type="audio/mpeg" />
+      <description>三十分かかる調査をエージェントに任せたあとで、対象のブランチを間違えていたことに気づく。慌てて「違う、stagingの方だ」と打ち込む。その一行が、いま走っている作業の途中に差し込まれるのか、作業が終わってから次の依頼として読まれるのかを、打った本人が知らない。差し込まれるなら、すでに積んだ前提の上に新しい前提が重なる。順番待ちなら、間違ったブランチへの調査が最後まで走り、その間のトークンと時間を払い続ける。
+
+どちらになるかは、入力を受ける側の仕組みで決まる。モデルの賢さは関係ない。走行中の入力は、進行中のターンの文脈に直接足されるか、別のターンとして後ろに並ぶか、実行そのものを止めて置き換えるかの三つに分かれる。割り込みはやり直...</description>
+      <itunes:summary>三十分かかる調査をエージェントに任せたあとで、対象のブランチを間違えていたことに気づく。慌てて「違う、stagingの方だ」と打ち込む。その一行が、いま走っている作業の途中に差し込まれるのか、作業が終わってから次の依頼として読まれるのかを、打った本人が知らない。差し込まれるなら、すでに積んだ前提の上に新しい前提が重なる。順番待ちなら、間違ったブランチへの調査が最後まで走り、その間のトークンと時間を払い続ける。
+
+どちらになるかは、入力を受ける側の仕組みで決まる。モデルの賢さは関係ない。走行中の入力は、進行中のターンの文脈に直接足されるか、別のターンとして後ろに並ぶか、実行そのものを止めて置き換えるかの三つに分かれる。割り込みはやり直...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nf2c6b8708621</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月23日版　考える深さを、仕事の重さに合わせて選ぶ</title>
       <link>https://note.com/vivid_quince2775/n/nb17965f9cbbf</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nb17965f9cbbf</guid>
@@ -2271,7 +2287,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:01:46 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
