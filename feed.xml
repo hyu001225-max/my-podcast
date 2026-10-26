@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月26日版　声で頼んだ指示を、送る前に一度読めるようにする</title>
+      <link>https://note.com/vivid_quince2775/n/n4fd60e77ff7a</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n4fd60e77ff7a</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261026-daily-2026-10-26.mp3" length="5643420" type="audio/mpeg" />
+      <description>移動中に思いついた修正を、マイクに向かって一息で話す。「ステージングにはデプロイしないで、まずテストだけ回して」。ところが画面に出た文字は、聞き取りの揺れで否定が落ちて「ステージングにデプロイして、まずテストだけ回して」になっていた。読み返さずに送れば、エージェントは文字どおりに動く。取り消せない操作が走ったあとで、誤認識に気づくことになる。
+
+この事故は、モデルの賢さでは防げない。音声入力は、モデルに届く前に文字起こしという別の段階を通る。モデルが受け取るのは文字だけで、どこが聞き取りに自信のない箇所だったかは、履歴に残らない。誤った一語は、打鍵した指示と同じ顔で会話の履歴に入る。誤りを見つけられるのは、文字になってから送られるま...</description>
+      <itunes:summary>移動中に思いついた修正を、マイクに向かって一息で話す。「ステージングにはデプロイしないで、まずテストだけ回して」。ところが画面に出た文字は、聞き取りの揺れで否定が落ちて「ステージングにデプロイして、まずテストだけ回して」になっていた。読み返さずに送れば、エージェントは文字どおりに動く。取り消せない操作が走ったあとで、誤認識に気づくことになる。
+
+この事故は、モデルの賢さでは防げない。音声入力は、モデルに届く前に文字起こしという別の段階を通る。モデルが受け取るのは文字だけで、どこが聞き取りに自信のない箇所だったかは、履歴に残らない。誤った一語は、打鍵した指示と同じ顔で会話の履歴に入る。誤りを見つけられるのは、文字になってから送られるま...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n4fd60e77ff7a</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月25日版　席を離れたあとに届く知らせを、完了と待ちで分ける</title>
       <link>https://note.com/vivid_quince2775/n/n5d31c7a3780b</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n5d31c7a3780b</guid>
@@ -2303,7 +2319,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 25 Oct 2026 03:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:00:46 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
