@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月28日版　同じ設定が二か所にあるとき、どちらが勝つかを先に知る</title>
+      <link>https://note.com/vivid_quince2775/n/n2afea2276606</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n2afea2276606</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261028-daily-2026-10-28.mp3" length="6916524" type="audio/mpeg" />
+      <description>夜間の自動実行だけ承認なしで走らせるつもりで、自分の設定ファイルを書き換えた。翌朝、作業は一行も進まず、承認待ちの画面で止まっていた。同じ項目がプロジェクト側のファイルにも書かれていて、そちらが勝っていたからだ。逆の事故もある。慎重にしたくて厳しい値を書いたのに、別の層の値に押し切られ、実際には何の制限もかかっていない。
+
+この食い違いは、実行の途中では見えない。モデルに届くのは、解決を終えた値が決めたモデル名、ツールの一覧、許可の範囲だけで、どの層の値が採用されたかは会話の履歴に残らない。モデルに聞いても、見えている値を答えるだけだ。途中でモデルが切り替われば、それまでに積んだプロンプトキャッシュも使えなくなる。設定の食い違いは...</description>
+      <itunes:summary>夜間の自動実行だけ承認なしで走らせるつもりで、自分の設定ファイルを書き換えた。翌朝、作業は一行も進まず、承認待ちの画面で止まっていた。同じ項目がプロジェクト側のファイルにも書かれていて、そちらが勝っていたからだ。逆の事故もある。慎重にしたくて厳しい値を書いたのに、別の層の値に押し切られ、実際には何の制限もかかっていない。
+
+この食い違いは、実行の途中では見えない。モデルに届くのは、解決を終えた値が決めたモデル名、ツールの一覧、許可の範囲だけで、どの層の値が採用されたかは会話の履歴に残らない。モデルに聞いても、見えている値を答えるだけだ。途中でモデルが切り替われば、それまでに積んだプロンプトキャッシュも使えなくなる。設定の食い違いは...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n2afea2276606</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月27日版　長い出力が会話に入る前に、どこで切られ、全文がどこに残るかを確かめる</title>
       <link>https://note.com/vivid_quince2775/n/nc25612ae16f3</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nc25612ae16f3</guid>
@@ -2339,7 +2355,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:00:48 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
