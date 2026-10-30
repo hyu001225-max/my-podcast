@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年10月30日版　AIが書いたコミットに、誰が書いたかの印を残す</title>
+      <link>https://note.com/vivid_quince2775/n/nd2c4bee8217e</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd2c4bee8217e</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261030-daily-2026-10-30.mp3" length="5986565" type="audio/mpeg" />
+      <description>半年前の関数に不具合が見つかり、git blame...</description>
+      <itunes:summary>半年前の関数に不具合が見つかり、git blame...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd2c4bee8217e</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年10月29日版　外へ出る通信を、既定で閉じ、開ける宛先を自分で決める</title>
       <link>https://note.com/vivid_quince2775/n/ne256271936df</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ne256271936df</guid>
@@ -2371,7 +2383,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 29 Oct 2026 03:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:00:44 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
