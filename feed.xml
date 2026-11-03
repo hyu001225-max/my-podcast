@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月3日版　つないだ道具の名簿を、使う分だけに絞る</title>
+      <link>https://note.com/vivid_quince2775/n/n539853f21f60</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n539853f21f60</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261103-daily-2026-11-03.mp3" length="5062457" type="audio/mpeg" />
+      <description>便利そうな外部ツールをMCPで次々につなぐと、あるとき返答が雑になる。選ぶべき道具を取り違える。頼んでいない書き込み系の道具を呼ぼうとする。原因は賢さの不足ではなく、モデルの目の前に並ぶ道具の名簿が長すぎることにある場合が多い。道具の名前、説明、引数の形はモデルへ渡す入力の一部で、会話の文脈と同じ枠を食う。使いもしない数十個の定義が毎回そこに居座れば、本題のコードやログを読む余地が削られ、似た名前の道具のあいだで注意が散る。
+
+しかも名簿は、長いほど危険も増やす。読み込んだ文書に紛れた指示が、つないだだけで一度も使っていない削除系の道具を呼ばせることもある。使う予定のない道具は、使えない状態にしておくのが一番安い。ただし見えなくする...</description>
+      <itunes:summary>便利そうな外部ツールをMCPで次々につなぐと、あるとき返答が雑になる。選ぶべき道具を取り違える。頼んでいない書き込み系の道具を呼ぼうとする。原因は賢さの不足ではなく、モデルの目の前に並ぶ道具の名簿が長すぎることにある場合が多い。道具の名前、説明、引数の形はモデルへ渡す入力の一部で、会話の文脈と同じ枠を食う。使いもしない数十個の定義が毎回そこに居座れば、本題のコードやログを読む余地が削られ、似た名前の道具のあいだで注意が散る。
+
+しかも名簿は、長いほど危険も増やす。読み込んだ文書に紛れた指示が、つないだだけで一度も使っていない削除系の道具を呼ばせることもある。使う予定のない道具は、使えない状態にしておくのが一番安い。ただし見えなくする...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n539853f21f60</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月2日版　コマンドの手元に見える秘密の値を、先に絞る</title>
       <link>https://note.com/vivid_quince2775/n/n4e0a18fda5e7</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n4e0a18fda5e7</guid>
@@ -2431,7 +2447,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:00:42 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
