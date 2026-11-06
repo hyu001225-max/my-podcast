@@ -2,6 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月6日版　読ませたくないファイルを、お願いではなく拒否の設定で閉じる</title>
+      <link>https://note.com/vivid_quince2775/n/ne0d2eb687ee9</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/ne0d2eb687ee9</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261106-daily-2026-11-06.mp3" length="5522630" type="audio/mpeg" />
+      <description>秘密の値を入れた .env...</description>
+      <itunes:summary>秘密の値を入れた .env...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/ne0d2eb687ee9</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月5日版　挙動がおかしいとき、自分の設定を外して再現するかを先に確かめる</title>
       <link>https://note.com/vivid_quince2775/n/n989ccef6180f</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n989ccef6180f</guid>
@@ -2479,7 +2491,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:01:26 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
