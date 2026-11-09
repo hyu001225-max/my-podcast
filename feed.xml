@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月9日版　予約した作業が走る場所と、走らないときの挙動を先に決める</title>
+      <link>https://note.com/vivid_quince2775/n/nbe2e0cabf9be</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nbe2e0cabf9be</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261109-daily-2026-11-09.mp3" length="5521376" type="audio/mpeg" />
+      <description>毎朝九時に走るはずの定期実行が、三日前から静かに止まっている。気づいたのは、出力を使う会議の直前だった。原因を探すと、予約を作った端末の電源が落ちていた、あるいは予約の裏で動いていたモデルが退役していた、というような、画面を見ている間は絶対に起きない種類のものだ。人が横にいない実行では、失敗は通知されない限り存在しないのと同じになる。
+
+定期実行が普段の会話と決定的に違うのは、毎回まっさらな文脈で始まり、途中で人が確認を挟めない点にある。権限は予約を作った時点の設定に固定され、実行場所は電源の入った端末か、クラウドか、常駐プロセスかのどれかに縛られる。モデルが変われば出力の質も変わる。予約とは、未来の自分に渡す、検証の機会のない依頼...</description>
+      <itunes:summary>毎朝九時に走るはずの定期実行が、三日前から静かに止まっている。気づいたのは、出力を使う会議の直前だった。原因を探すと、予約を作った端末の電源が落ちていた、あるいは予約の裏で動いていたモデルが退役していた、というような、画面を見ている間は絶対に起きない種類のものだ。人が横にいない実行では、失敗は通知されない限り存在しないのと同じになる。
+
+定期実行が普段の会話と決定的に違うのは、毎回まっさらな文脈で始まり、途中で人が確認を挟めない点にある。権限は予約を作った時点の設定に固定され、実行場所は電源の入った端末か、クラウドか、常駐プロセスかのどれかに縛られる。モデルが変われば出力の質も変わる。予約とは、未来の自分に渡す、検証の機会のない依頼...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nbe2e0cabf9be</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月8日版　走らせる前に、使う量の上限を決める</title>
       <link>https://note.com/vivid_quince2775/n/n215177552e51</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n215177552e51</guid>
@@ -2523,7 +2539,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Nov 2026 03:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:04:22 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
