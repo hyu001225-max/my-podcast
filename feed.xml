@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月11日版　入れる前に、他人が書いた手順書が何を実行できるかを読む</title>
+      <link>https://note.com/vivid_quince2775/n/n3a7df091a807</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n3a7df091a807</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261111-daily-2026-11-11.mp3" length="6185514" type="audio/mpeg" />
+      <description>評判のよさそうなコミット整形の手順書をGitHubで見つけ、コピーして入れた。翌日からエージェントの返答がわずかに重くなり、承認画面には覚えのないシェルコマンドが並ぶようになった。手順書は文章のはずだったのに、同じフォルダに実行用のスクリプトが入っていた。しかも、そのスクリプトを読んだ人は自分を含めて誰もいない。
+
+厄介なのは、手順書が二つの経路で効く点だ。一つは実行物で、同梱のスクリプトやフックは自分の権限でそのまま動く。もう一つは文章で、名前と説明の一覧は毎回コンテキストウィンドウに載り、エージェントがどの手順を読むかを決める材料になる。数が増えれば一覧が文脈を圧迫し、アテンションが薄まる。他人の書いた説明文が、自分のエージェン...</description>
+      <itunes:summary>評判のよさそうなコミット整形の手順書をGitHubで見つけ、コピーして入れた。翌日からエージェントの返答がわずかに重くなり、承認画面には覚えのないシェルコマンドが並ぶようになった。手順書は文章のはずだったのに、同じフォルダに実行用のスクリプトが入っていた。しかも、そのスクリプトを読んだ人は自分を含めて誰もいない。
+
+厄介なのは、手順書が二つの経路で効く点だ。一つは実行物で、同梱のスクリプトやフックは自分の権限でそのまま動く。もう一つは文章で、名前と説明の一覧は毎回コンテキストウィンドウに載り、エージェントがどの手順を読むかを決める材料になる。数が増えれば一覧が文脈を圧迫し、アテンションが薄まる。他人の書いた説明文が、自分のエージェン...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n3a7df091a807</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月10日版　外から読ませた文章に混ざった命令を、指示として扱わせない</title>
       <link>https://note.com/vivid_quince2775/n/n63a7168976cc</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n63a7168976cc</guid>
@@ -2555,7 +2571,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:02:46 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
