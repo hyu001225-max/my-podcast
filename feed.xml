@@ -2,6 +2,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月19日版　日本語で返させる指示を、頼む文面ではなく置き場所で固定する</title>
+      <link>https://note.com/vivid_quince2775/n/na4711b8b429c</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/na4711b8b429c</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261119-daily-2026-11-19.mp3" length="6081442" type="audio/mpeg" />
+      <description>「日本語で答えて」と書いたはずの仕事が、翌朝に英語の報告書になって届く。チームに回す前に全文を訳し直すと、浮いたはずの時間がそのまま消える。しかも訳し直しは一回では終わらない。次の日にまた英語で返ってくるからだ。原因はモデルの日本語力ではない。その一言が、前の会話の中にしかなかったことだ。
+
+会話に書いた指示は、会話の文脈の中でしか効かない。新しいセッションを開けば文脈は空になり、長い作業で圧縮が走れば、冒頭の一行は要約に溶ける。夜間の予約実行のように、最初から会話の無い実行では、誰も指示を言っていない。言語の指定は、内容の指示より軽く見えるぶん、置き場所を決めないまま放置されやすい。
+
+直近の三日は、別の文脈でのレビュー、回数と費...</description>
+      <itunes:summary>「日本語で答えて」と書いたはずの仕事が、翌朝に英語の報告書になって届く。チームに回す前に全文を訳し直すと、浮いたはずの時間がそのまま消える。しかも訳し直しは一回では終わらない。次の日にまた英語で返ってくるからだ。原因はモデルの日本語力ではない。その一言が、前の会話の中にしかなかったことだ。
+
+会話に書いた指示は、会話の文脈の中でしか効かない。新しいセッションを開けば文脈は空になり、長い作業で圧縮が走れば、冒頭の一行は要約に溶ける。夜間の予約実行のように、最初から会話の無い実行では、誰も指示を言っていない。言語の指定は、内容の指示より軽く見えるぶん、置き場所を決めないまま放置されやすい。
+
+直近の三日は、別の文脈でのレビュー、回数と費...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/na4711b8b429c</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月18日版　夜に回す仕事の認証が切れていた朝、失敗の種類を先に分けておく</title>
       <link>https://note.com/vivid_quince2775/n/n96bd84488630</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n96bd84488630</guid>
@@ -2701,7 +2721,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:01:44 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
