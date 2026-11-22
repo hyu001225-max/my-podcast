@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月22日版　AIが打つコマンドが、どのOSのどのシェルで走るかを、頼む前に確かめる</title>
+      <link>https://note.com/vivid_quince2775/n/nefc234c56121</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nefc234c56121</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261122-daily-2026-11-22.mp3" length="5614999" type="audio/mpeg" />
+      <description>手順書にrm -rfとexportを並べて渡したら、AIは素直にそれを打ち、Windowsの端末が「認識されません」と返す。AIは赤い文字を読んで書き直し、また別の構文で失敗する。三回繰り返すころには、本題の作業より、コマンドの方言を直す往復のほうが長くなっている。しかも失敗のたびにエラー文が会話に積まれ、本来の指示がコンテキストの奥へ押し流される。
+
+原因はAIの腕前ではなく、コマンドが走る場所を誰も決めていなかったことにある。同じ「ターミナルで実行」でも、実体はPowerShellかもしれず、Git...</description>
+      <itunes:summary>手順書にrm -rfとexportを並べて渡したら、AIは素直にそれを打ち、Windowsの端末が「認識されません」と返す。AIは赤い文字を読んで書き直し、また別の構文で失敗する。三回繰り返すころには、本題の作業より、コマンドの方言を直す往復のほうが長くなっている。しかも失敗のたびにエラー文が会話に積まれ、本来の指示がコンテキストの奥へ押し流される。
+
+原因はAIの腕前ではなく、コマンドが走る場所を誰も決めていなかったことにある。同じ「ターミナルで実行」でも、実体はPowerShellかもしれず、Git...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nefc234c56121</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月21日版　昨日の続きを頼む前に、再開で戻るものと戻らないものを分けて確かめる</title>
       <link>https://note.com/vivid_quince2775/n/n7ca8d9257d72</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n7ca8d9257d72</guid>
@@ -2757,7 +2773,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:01:37 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
