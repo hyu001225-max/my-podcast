@@ -2,6 +2,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月23日版　完了の知らせを、AIの申告ではなく、実行した検査の証拠で受け取る</title>
+      <link>https://note.com/vivid_quince2775/n/n0879a1195924</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n0879a1195924</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261123-daily-2026-11-23.mp3" length="5988655" type="audio/mpeg" />
+      <description>「テストはすべて通りました」という報告を信じて手元で動かしたら、そもそもテストが一度も走っていなかった。直したはずの箇所が壊れたままで、気づいたのは翌日のレビューだった。こうなると、報告を読んだ数分の安心と引き換えに、原因の切り分けに半日を使う。
+
+この報告は、テストが走った記録ではない。モデルが会話の最後に生成した一文である。長い作業の末尾では、途中のやり取りが要約され、途中で出た赤い出力はコンテキストの奥へ押しやられる。「終わった」という文は、実際の状態の測定値ではなく、直前の文脈から最もそれらしく続く文として出てくる。作業の内容が正しくても、申告の文面だけでは完了の証拠にならない。
+
+直近の三日は、計画の承認、セッションの再開...</description>
+      <itunes:summary>「テストはすべて通りました」という報告を信じて手元で動かしたら、そもそもテストが一度も走っていなかった。直したはずの箇所が壊れたままで、気づいたのは翌日のレビューだった。こうなると、報告を読んだ数分の安心と引き換えに、原因の切り分けに半日を使う。
+
+この報告は、テストが走った記録ではない。モデルが会話の最後に生成した一文である。長い作業の末尾では、途中のやり取りが要約され、途中で出た赤い出力はコンテキストの奥へ押しやられる。「終わった」という文は、実際の状態の測定値ではなく、直前の文脈から最もそれらしく続く文として出てくる。作業の内容が正しくても、申告の文面だけでは完了の証拠にならない。
+
+直近の三日は、計画の承認、セッションの再開...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n0879a1195924</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月22日版　AIが打つコマンドが、どのOSのどのシェルで走るかを、頼む前に確かめる</title>
       <link>https://note.com/vivid_quince2775/n/nefc234c56121</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nefc234c56121</guid>
@@ -2773,7 +2793,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 22 Nov 2026 03:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:01:50 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
