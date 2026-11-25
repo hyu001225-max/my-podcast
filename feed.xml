@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月25日版　AIが使うモデルの名前が、いつ別のモデルを指すかを、更新の前に確かめる</title>
+      <link>https://note.com/vivid_quince2775/n/n3686655b4c54</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/n3686655b4c54</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261125-daily-2026-11-25.mp3" length="6236923" type="audio/mpeg" />
+      <description>先週まで安定して動いていた定型作業が、今週になって急に雑な出力を返し始めた。設定は一行も触っていない。調べると、設定に書いてあったのは「sonnet」や「opus」という別名で、その別名が指す先が更新で動いていた。同じ名前のまま、中身のモデルだけが入れ替わったわけだ。原因の切り分けに半日を使い、結局、直すのは一行で済んだ。
+
+モデルの名前は、固定された指名ではない場合がある。別名は更新のたびに最新を指し直し、退役したモデルの名前は設定ファイルに残ったまま呼び出しが失敗し、障害時の代替は別のモデルへ黙って切り替わる。切り替わると、前のモデルに積んだプロンプトキャッシュは使えず、会話の履歴が定価で読み直される。品質も費用も再現性も、名前...</description>
+      <itunes:summary>先週まで安定して動いていた定型作業が、今週になって急に雑な出力を返し始めた。設定は一行も触っていない。調べると、設定に書いてあったのは「sonnet」や「opus」という別名で、その別名が指す先が更新で動いていた。同じ名前のまま、中身のモデルだけが入れ替わったわけだ。原因の切り分けに半日を使い、結局、直すのは一行で済んだ。
+
+モデルの名前は、固定された指名ではない場合がある。別名は更新のたびに最新を指し直し、退役したモデルの名前は設定ファイルに残ったまま呼び出しが失敗し、障害時の代替は別のモデルへ黙って切り替わる。切り替わると、前のモデルに積んだプロンプトキャッシュは使えず、会話の履歴が定価で読み直される。品質も費用も再現性も、名前...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/n3686655b4c54</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月24日版　AIの変更を取り消す前に、何が元に戻り、何が戻らないかを確かめる</title>
       <link>https://note.com/vivid_quince2775/n/nf05705624b97</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nf05705624b97</guid>
@@ -2809,7 +2825,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:02:08 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
