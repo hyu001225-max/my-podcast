@@ -2,6 +2,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <item>
+      <title>AIエージェント日次速報 2026年11月27日版　AIが作ったファイルが、どこに書かれ、どこで消えるかを、頼む前に確かめる</title>
+      <link>https://note.com/vivid_quince2775/n/nd1e6aff4e8e9</link>
+      <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nd1e6aff4e8e9</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+      <enclosure url="https://hyu001225-max.github.io/my-podcast/episodes/20261127-daily-2026-11-27.mp3" length="5798483" type="audio/mpeg" />
+      <description>「レポートを作っておいた」と報告を受けて探すと、どこにも無い。作業フォルダを探し回り、会話を遡り、結局もう一度同じ依頼を打つ。再生成した版は前回と数字が微妙に違い、どちらが正しいのかを確かめる仕事まで増える。成果物が行方不明になるだけで、作業時間は倍になる。
+
+原因は、AIが怠けたことではない。ファイルの書き込み先が、道具ごとに違う場所に決まっているからだ。手元のフォルダに書く道具もあれば、遠隔のクラウド上の作業場に書く道具もあり、承認を得るまで書かない道具もある。書き込み先を知らずに頼むと、成果物は書けないか、思わぬ場所に書かれるか、受け取る前に失効する。しかも同じ場所には、一時ファイルや退避された出力が混ざり、成果物と作業くずの...</description>
+      <itunes:summary>「レポートを作っておいた」と報告を受けて探すと、どこにも無い。作業フォルダを探し回り、会話を遡り、結局もう一度同じ依頼を打つ。再生成した版は前回と数字が微妙に違い、どちらが正しいのかを確かめる仕事まで増える。成果物が行方不明になるだけで、作業時間は倍になる。
+
+原因は、AIが怠けたことではない。ファイルの書き込み先が、道具ごとに違う場所に決まっているからだ。手元のフォルダに書く道具もあれば、遠隔のクラウド上の作業場に書く道具もあり、承認を得るまで書かない道具もある。書き込み先を知らずに頼むと、成果物は書けないか、思わぬ場所に書かれるか、受け取る前に失効する。しかも同じ場所には、一時ファイルや退避された出力が混ざり、成果物と作業くずの...</itunes:summary>
+      <itunes:author>とあるITエンジニア | AIと仕事の仕組み化</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>https://note.com/vivid_quince2775/n/nd1e6aff4e8e9</content:encoded>
+    </item>
+    <item>
       <title>AIエージェント日次速報 2026年11月26日版　先週の決定を、記憶ではなく検索で引き当てる前に、その検索が見る範囲を確かめる</title>
       <link>https://note.com/vivid_quince2775/n/nb387e8f607d6</link>
       <guid isPermaLink="true">https://note.com/vivid_quince2775/n/nb387e8f607d6</guid>
@@ -2845,7 +2861,7 @@ Claude...</itunes:summary>
     <link>https://note.com/vivid_quince2775</link>
     <description>AIエージェントや業務OS化の動向を、実務目線でやわらかく整理して届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</description>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:01:46 +0000</lastBuildDate>
     <itunes:author>とあるITエンジニア</itunes:author>
     <itunes:summary>AIエージェント、業務OS化、実務活用の観点から日次でニュースと示唆を届けるポッドキャストです。 https://listen.style/p/toaruitengineer?98F2FAeB</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
